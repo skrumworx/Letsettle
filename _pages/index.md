@@ -8,11 +8,6 @@ permalink: http://letsettle.net.au/index/
 published: true
 post_date: 2018-04-02 10:21:18
 ---
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div>
  
