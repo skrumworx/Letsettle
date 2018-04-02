@@ -13,3 +13,9 @@ post_date: 2018-04-02 10:21:18
 &nbsp;
 
 &nbsp;
+
+<div>
+ 
+      <svg id="donut" viewBox="0 0 400 400" perserveAspectRatio="xMinYMid"></svg>
+ 
+</div>
