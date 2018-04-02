@@ -8,9 +8,8 @@ permalink: http://letsettle.net.au/index/
 published: true
 post_date: 2018-04-02 10:21:18
 ---
-
 <div>
- 
-      <svg id="donut" viewBox="0 0 400 400" perserveAspectRatio="xMinYMid"></svg>
- 
+
+&nbsp;
+
 </div>
