@@ -8,6 +8,10 @@ permalink: http://letsettle.net.au/new-index/
 published: true
 post_date: 2018-04-02 11:10:00
 ---
+<!doctype html>
+<meta charset="utf-8">
+
+<!-- load D3js -->
 <script src="//d3plus.org/js/d3.js"></script>
 
 <!-- load D3plus after D3js -->
@@ -15,7 +19,9 @@ post_date: 2018-04-02 11:10:00
 
 <!-- create container element for visualization -->
 <div id="viz"></div>
+
 <script>
+
   // sample data array
   var sample_data = [
     {"year": 1991, "name":"alpha", "value": 17},
@@ -33,6 +39,7 @@ post_date: 2018-04-02 11:10:00
     {"year": 1994, "name":"gamma", "value": 35},
     {"year": 1995, "name":"gamma", "value": 40}
   ]
+
   // instantiate d3plus
   var visualization = d3plus.viz()
     .container("#viz")  // container DIV to hold the visualization
@@ -43,4 +50,5 @@ post_date: 2018-04-02 11:10:00
     .y("value")         // key to use for y-axis
     .x("year")          // key to use for x-axis
     .draw()             // finally, draw the visualization!
+
 </script>
