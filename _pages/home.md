@@ -10,7 +10,7 @@ post_date: 2018-03-24 22:39:21
 ---
 <h2>Do what is right.</h2>		
 			<h2>Life is all about making choices, change and taking chances.</h2>		
-			<a href="#" target="_blank" role="button">
+			<a href="#" role="button">
 						Discover Occupations
 					</a>
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
