@@ -10,7 +10,7 @@ post_date: 2018-03-24 22:39:21
 ---
 <h2>Do what is right.</h2>		
 			<h2>Life is all about making choices, change and taking chances.</h2>		
-			<button>Discover Occupations ➤</button>		
+			<input type='submit' name='occupation' value='Discover Occupations ➤'>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
 			<h3>Stories </h3>		
 										<img width="768" height="1024" src="http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM-768x1024.jpeg" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM.jpeg 768w, http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" />											
