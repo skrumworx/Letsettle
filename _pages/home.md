@@ -26,3 +26,5 @@ post_date: 2018-03-24 22:39:21
                     As a international student studying in Monash University and will graduate in July. I would like to use the website to find the most suitable state for me to settle. In fact, I am searching for jobs these days and it is hard to find a job which matches my skills. However, this website helps me a lot to get rid of this confusing situation. According to the recommendations given by the website, I am now applying PR to migrate Northern Territory, 
                 </p>
                 <p>Mark Yang</p>
+			<h2>DISCOVER AUSTRALIA</h2>		
+										<img width="470" height="395" src="http://35.184.23.199/wp-content/uploads/2018/04/map-1.gif" alt="" />
