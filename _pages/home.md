@@ -16,15 +16,15 @@ post_date: 2018-03-24 22:39:21
 			<h2>MAKE YOUR AUSTRALIAN DREAM COME TRUE</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/overview-3-nolx3x55k7u4632b6ujm8b3tbosyikecgaet89calm.png" title="overview 3" alt="overview 3" />											
 			<h2>DISCOVER AUSTRALIA</h2>		
-										<img width="470" height="395" src="http://35.184.23.199/wp-content/uploads/2018/04/map-1.gif" alt="" />											
+			<noscript><a href='#'><img alt='Sheet 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Au&#47;AustralianStates&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AustralianStates&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Au&#47;AustralianStates&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>                		
 			<h3>Stories </h3>		
 										<img width="768" height="1024" src="http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM-768x1024.jpeg" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM.jpeg 768w, http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" />											
-                <p>
-                    As  a professional with 10 years experience in Teaching, I would like to find a job which matches my skills in Australia . Unfortunately, I’m forced drive Uber to cover up my family’s expenses.    This web site helped me to identify the state, which matches my skills the most. And currently I’m working on my PR application to migrate South Australia, which I believe I have a highest chance of getting a job and settle down. 
-                </p>
-                <p>Sujeewa Ariyarathna</p>
+				<p>
+					As  a professional with 10 years experience in Teaching, I would like to find a job which matches my skills in Australia . Unfortunately, I’m forced drive Uber to cover up my family’s expenses.    This web site helped me to identify the state, which matches my skills the most. And currently I’m working on my PR application to migrate South Australia, which I believe I have a highest chance of getting a job and settle down. 
+				</p>
+				<p>Sujeewa Ariyarathna</p>
 										<img width="710" height="1024" src="http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.19.51-PM-710x1024.jpeg" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.19.51-PM-710x1024.jpeg 710w, http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.19.51-PM-208x300.jpeg 208w, http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.19.51-PM-768x1107.jpeg 768w, http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.19.51-PM.jpeg 790w" sizes="(max-width: 710px) 100vw, 710px" />											
-                <p>
-                    As a international student studying in Monash University and will graduate in July. I would like to use the website to find the most suitable state for me to settle. In fact, I am searching for jobs these days and it is hard to find a job which matches my skills. However, this website helps me a lot to get rid of this confusing situation. According to the recommendations given by the website, I am now applying PR to migrate Northern Territory, 
-                </p>
-                <p>Mark Yang</p>
+				<p>
+					As a international student studying in Monash University and will graduate in July. I would like to use the website to find the most suitable state for me to settle. In fact, I am searching for jobs these days and it is hard to find a job which matches my skills. However, this website helps me a lot to get rid of this confusing situation. According to the recommendations given by the website, I am now applying PR to migrate Northern Territory, 
+				</p>
+				<p>Mark Yang</p>
