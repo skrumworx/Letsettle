@@ -26,4 +26,3 @@ post_date: 2018-03-24 22:39:21
                     As a international student studying in Monash University and will graduate in July. I would like to use the website to find the most suitable state for me to settle. In fact, I am searching for jobs these days and it is hard to find a job which matches my skills. However, this website helps me a lot to get rid of this confusing situation. According to the recommendations given by the website, I am now applying PR to migrate Northern Territory, 
                 </p>
                 <p>Mark Yang</p>
-			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" aria-label="London Eye, London, United Kingdom"></iframe>
