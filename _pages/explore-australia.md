@@ -17,19 +17,8 @@ post_date: 2018-04-08 04:53:06
 									Cost of Living
 									Weather
 									Universities
-									Tab Title
-									Tab Title
 									Population  According to Nationality
-					<p>I am tab content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
 									Population According to Religion
-					<p>I am tab content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
 									Cost of Living
-					<p>Tab Content</p>
 									Weather
-					<p>Tab Content</p>
 									Universities
-					<p>Tab Content</p>
-									Tab Title
-					<p>Tab Content</p>
-									Tab Title
-					<p>Tab Content</p>
