@@ -19,5 +19,5 @@ post_date: 2018-03-24 22:39:59
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/ning-nnqi1j0e4d8gau99de32xo88xihdctb18hs2xjamrc.png" title="ning" alt="ning" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/t-nnqi71cc6eryck9679td1s6i9tbtgy6ebrfj6x4kag.png" title="t" alt="t" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Building-nntxxkdofgov21swvrmcgp4kgpitikcjfmrsg0cou0.png" title="Building" alt="Building" />											
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/car-nnqgq6uzxqfllt0msfggv49jxxswpkdoe70ruvhe48.png" title="car" alt="car" />											
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/law-2-nomywtsqs4mge7q5teegm3weh2yxvj7j9ou40zwc6w.png" title="law 2" alt="law 2" />											
 			<h2>Skill Demand in Each State</h2>
