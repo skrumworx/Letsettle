@@ -8,16 +8,16 @@ permalink: http://35.184.23.199/
 published: true
 post_date: 2018-03-24 22:39:21
 ---
-<h2>Do what is right.</h2>		
-			<h2>Life is all about making choices, change and taking chances.</h2>		
+<h2>Pursue opportunities where the skills are in demand. </h2>		
+			<h2>Life is all about making choices, <br>change and taking chances.</h2>		
 											<a href="http://letsettle.net.au/skills/" data-elementor-open-lightbox="" target="_blank">
 							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/button1-nohv0e5gj7qx7m9zi6i9992j68909tjjdkwrxm2y5k.png" title="button1" alt="button1" />								</a>
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
+			<h2>Skill Demand</h2>		
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.37.19-pm-noqzqx92ans69jrduf4mpu6vv3l6d7kbigpzpca0my.png" title="Screen Shot 2018-04-15 at 5.37.19 pm" alt="Screen Shot 2018-04-15 at 5.37.19 pm" />											
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.53.29-pm-nor0gkakpyvqymim4i49qd9j7h7mbzcqddcsz29ewq.png" title="Screen Shot 2018-04-15 at 5.53.29 pm" alt="Screen Shot 2018-04-15 at 5.53.29 pm" />											
 			<h2>MAKE YOUR AUSTRALIAN DREAM COME TRUE</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/overview-5-noqy00w25iezajvb2qopq027yvh00300g7ml6ls2p6.png" title="overview 5" alt="overview 5" />											
-			<h2>Skill Demand<br></h2>		
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.37.19-pm-noqzqx92ans69jrduf4mpu6vv3l6d7kbigpzpca0my.png" title="Screen Shot 2018-04-15 at 5.37.19 pm" alt="Screen Shot 2018-04-15 at 5.37.19 pm" />											
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.36.00-pm-noqzouztaqyiscr8w113quxgxnr6h4diw96mshc4ai.png" title="Screen Shot 2018-04-15 at 5.36.00 pm" alt="Screen Shot 2018-04-15 at 5.36.00 pm" />											
 			<h3>Stories </h3>		
 										<img width="768" height="1024" src="http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM-768x1024.jpeg" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM.jpeg 768w, http://35.184.23.199/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" />											
 				<p>
