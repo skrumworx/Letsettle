@@ -15,9 +15,9 @@ post_date: 2018-03-24 22:39:21
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
 			<h2>SKILL DEMAND IN AUSTRALIA</h2>		
 			<h2>Find demand and prediction of each occupation</h2>		
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.37.19-pm-noqzqx92ans69jrduf4mpu6vv3l6d7kbigpzpca0my.png" title="Screen Shot 2018-04-15 at 5.37.19 pm" alt="Screen Shot 2018-04-15 at 5.37.19 pm" />											
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.37.19-pm-noqzqx90yf4gsj22b2bfxrr6z0y463taq98w97zszc.png" title="Screen Shot 2018-04-15 at 5.37.19 pm" alt="Screen Shot 2018-04-15 at 5.37.19 pm" />											
 			<h2>Match your expertise with demand in each state</h2>		
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.53.29-pm-nor0gkakpyvqymim4i49qd9j7h7mbzcqddcsz29ewq.png" title="Screen Shot 2018-04-15 at 5.53.29 pm" alt="Screen Shot 2018-04-15 at 5.53.29 pm" />											
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.53.29-pm-nor0gkajdq81hltal5b2yatubekk4vlpl5vpixz794.png" title="Screen Shot 2018-04-15 at 5.53.29 pm" alt="Screen Shot 2018-04-15 at 5.53.29 pm" />											
 			<h2>MAKE YOUR AUSTRALIAN DREAM COME TRUE</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/overview-5-noqy00w25iezajvb2qopq027yvh00300g7ml6ls2p6.png" title="overview 5" alt="overview 5" />											
 			<h3>Stories </h3>		
