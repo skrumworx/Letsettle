@@ -13,7 +13,7 @@ post_date: 2018-03-24 22:39:21
 											<a href="http://letsettle.net.au/skills/occupation" data-elementor-open-lightbox="" target="_blank">
 							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/button1-nohv0e5gj7qx7m9zi6i9992j68909tjjdkwrxm2y5k.png" title="button1" alt="button1" />								</a>
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
-			<h2>SKILL DEMAND IN AUSTRALIA</h2>		
+			<h2>DISCOVER SKILL DEMAND IN AUSTRALIA</h2>		
 			<h2>Find demand and prediction of each occupation</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.37.19-pm-noqzqx90yf4gsj22b2bfxrr6z0y463taq98w97zszc.png" title="Screen Shot 2018-04-15 at 5.37.19 pm" alt="Screen Shot 2018-04-15 at 5.37.19 pm" />											
 			<h2>Match your expertise with demand in each state</h2>		
