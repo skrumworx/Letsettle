@@ -1,12 +1,12 @@
 ---
-ID: 21
-post_title: Skills
+ID: 909
+post_title: Occupations
 author: Admin-Skrumworx
 post_excerpt: ""
 layout: page
-permalink: http://35.184.23.199/skills/
+permalink: http://35.184.23.199/skills-2/
 published: true
-post_date: 2018-03-24 22:39:59
+post_date: 2018-04-15 10:24:37
 ---
 <p>Focus in the right direction</p>		
 			<h2>Match Your Expertise With Demand </h2>		
