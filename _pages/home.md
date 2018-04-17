@@ -18,7 +18,8 @@ post_date: 2018-03-24 22:39:21
 											<a href="http://www.letsettle.net.au/occupations/" data-elementor-open-lightbox="">
 							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.37.19-pm-noqzqx90yf4gsj22b2bfxrr6z0y463taq98w97zszc.png" title="Screen Shot 2018-04-15 at 5.37.19 pm" alt="Screen Shot 2018-04-15 at 5.37.19 pm" />								</a>
 			<h2>Match your expertise with demand in each state</h2>		
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.53.29-pm-nor0gkajdq81hltal5b2yatubekk4vlpl5vpixz794.png" title="Screen Shot 2018-04-15 at 5.53.29 pm" alt="Screen Shot 2018-04-15 at 5.53.29 pm" />											
+											<a href="http://www.letsettle.net.au/states/" data-elementor-open-lightbox="">
+							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.53.29-pm-nor0gkajdq81hltal5b2yatubekk4vlpl5vpixz794.png" title="Screen Shot 2018-04-15 at 5.53.29 pm" alt="Screen Shot 2018-04-15 at 5.53.29 pm" />								</a>
 			<h2>MAKE YOUR AUSTRALIAN DREAM COME TRUE</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-7.26.42-pm-nor4i9a3koqp056g2z2pth5b41oiz66f4mth2kmk4k.png" title="Screen Shot 2018-04-15 at 7.26.42 pm" alt="Screen Shot 2018-04-15 at 7.26.42 pm" />											
 			<h3>Stories </h3>		
