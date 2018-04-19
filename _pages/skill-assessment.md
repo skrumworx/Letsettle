@@ -8,24 +8,14 @@ permalink: http://35.184.23.199/skill-assessment/
 published: true
 post_date: 2018-04-19 10:07:07
 ---
-<h2>SKILL ASSESSMENT AUTHORITIES</h2>		
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
-<select ID="DropDownList1" onselect='onselectshowdetail()'>
-  <option selected='selected' value="0">All</option>
-  <option value="1">ICT</option>
-  <option value="2">Accountancy</option>
-  <option value="3">Building Professions</option>
-  <option value="4">Engineering</option>
-  <option value="5">Health Profession</option>
-  <option value="6">Law</option>
-  <option value="7">Nursing</option>
-  <option value="8">Teaching</option>
-</select>		
+<h2>ABOUT US...</h2>		
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
+		[xyz-ips snippet="dropdownlist"]		
 			<h2>Choose the perfect visa Option</h2>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<h2><b>Skilled Independent visa</b><br><br>Sub Class 189</h2>		
-		<p>Skilled workers who are not sponsored by an employer or family member or nominated by a state or territory government.</p><p><strong><a style="color: #808080; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/189-" target="_blank" rel="noopener">More Info</a></strong></p>		
-			<h2><b> Skilled Nominated</b><br><b>Visa</b><br><br>Sub class 190</h2>		
-		<p> Skilled workers who are nominated by an Australian state or territory government live and work in Australia with PR.</p><p><strong><a style="color: #ffffff; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/190-" target="_blank" rel="noopener">More Info</a></strong></p>		
-			<h2><b> Skilled Regional<br> Visa</b><br><br>Sub class 489</h2>		
-		<p>Skilled workers to live and work in regional or low-population growth metropolitan areas of Australia for up to four years.</p><p><strong><a style="color: #808080; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/489-" target="_blank" rel="noopener">More Info</a></strong></p>
+		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p><strong><a style="color: #808080; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/189-" target="_blank" rel="noopener">More Info</a></strong></p>		
+			<h2><b>Skilled Nominated </b><br><b>Visa</b><br><br>Sub class 190</h2>		
+		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p><strong><a style="color: #ffffff; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/190-" target="_blank" rel="noopener">More Info</a></strong></p>		
+			<h2><b>Skilled Regional<br> Visa</b><br><br>Sub class 489</h2>		
+		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<p><strong><a style="color: #808080; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/489-" target="_blank" rel="noopener">More Info</a></strong></p>
