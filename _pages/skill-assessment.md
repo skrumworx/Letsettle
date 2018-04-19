@@ -10,7 +10,7 @@ post_date: 2018-04-19 10:07:07
 ---
 <h2>ABOUT US...</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
-			<select ID="DropDownList1" AutoPostBack="true" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+			<select ID="DropDownList1" AutoPostBack="true">
   <option value="0">All</option>
   <option value="1">ICT</option>
   <option value="2">Accountancy</option>
