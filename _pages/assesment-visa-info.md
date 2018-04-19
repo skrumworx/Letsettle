@@ -14,8 +14,8 @@ post_date: 2018-04-18 23:22:36
 			<h3>Choose the perfect visa Option</h3>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<h2><b>Skilled Independent visa</b><br><br>Sub Class 189</h2>		
-		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>More Info</p>		
+		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p><a href="https://www.homeaffairs.gov.au/trav/visa-1/189-" target="_blank" rel="noopener">More Info</a></p>		
 			<h2><b>Skilled Nominated </b><br><b>Visa</b><br><br>Sub class 190</h2>		
-		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>More Info</p>		
+		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p><a href="https://www.homeaffairs.gov.au/trav/visa-1/190-" target="_blank" rel="noopener">More Info</a></p>		
 			<h2><b>Skilled Regional<br> Visa</b><br><br>Sub class 489</h2>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<p>More Info</p>
+		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<p><a href="https://www.homeaffairs.gov.au/trav/visa-1/489-" target="_blank" rel="noopener">More Info</a></p>
