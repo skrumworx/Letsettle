@@ -11,7 +11,7 @@ post_date: 2018-04-18 23:22:36
 ---
 <h2>Assessment &amp; Visa </h2>		
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
-			<h3>Choose the perfect visa Option</h3>		
+			<h2>Choose the perfect visa Option</h2>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<h2><b>Skilled Independent visa</b><br><br>Sub Class 189</h2>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p><a href="https://www.homeaffairs.gov.au/trav/visa-1/189-" target="_blank" rel="noopener">More Info</a></p>		
