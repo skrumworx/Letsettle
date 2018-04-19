@@ -15,7 +15,7 @@ post_date: 2018-04-19 10:07:07
   <option value="1">ICT</option>
   <option value="2">Accountancy</option>
   <option value="3">Building Professions</option>
-  <option value="4">Engineering</option></option>
+  <option value="4">Engineering</option>
   <option value="5">Health Profession</option>
   <option value="6">Law</option>
   <option value="7">Nursing</option>
