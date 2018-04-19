@@ -20,8 +20,6 @@ post_date: 2018-03-24 22:39:21
 			<h2>Match your expertise with demand in each state</h2>		
 											<a href="http://www.letsettle.net.au/states/" data-elementor-open-lightbox="">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.53.29-pm-nor0gkajdq81hltal5b2yatubekk4vlpl5vpixz794.png" title="Screen Shot 2018-04-15 at 5.53.29 pm" alt="Screen Shot 2018-04-15 at 5.53.29 pm" />								</a>
-			<h2>MAKE YOUR AUSTRALIAN DREAM COME TRUE</h2>		
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-7.26.42-pm-nor4i9a3koqp056g2z2pth5b41oiz66f4mth2kmk4k.png" title="Screen Shot 2018-04-15 at 7.26.42 pm" alt="Screen Shot 2018-04-15 at 7.26.42 pm" />											
 			<h3>Make your australian dream come true</h3>		
 			<figure><img width="128" height="128" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399662_Marketing.png" alt="" /></figure><h3>Occupations in Demand</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
 			<figure><img width="128" height="128" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399671_SEO.png" alt="" /></figure><h3>Skill Assessment</h3><p><h3 data-elementor-setting-key="title_text" data-elementor-inline-editing-toolbar="none" data-pen-placeholder="Type Here..." style="font-variant-ligatures: normal; font-variant-caps: normal; font-style: normal;">Additional Skills</h3>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar.</p>		
