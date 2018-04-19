@@ -21,14 +21,13 @@ post_date: 2018-04-19 10:07:07
   <option value="7">Nursing</option>
   <option value="8">Teaching</option>
 </select>		
-        <Label 
+<Label 
              ID="Label1"
-             runat="server"
              Font-Bold="true"
              ForeColor="Purple"
              Font-Size="Large"
              >
-        </Label>		
+</Label>		
 			<h2>Choose the perfect visa Option</h2>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<h2><b>Skilled Independent visa</b><br><br>Sub Class 189</h2>		
