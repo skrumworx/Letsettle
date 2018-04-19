@@ -13,14 +13,7 @@ post_date: 2018-03-24 22:39:21
 											<a href="http://letsettle.net.au/occupation" data-elementor-open-lightbox="" target="_blank">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/button1-nohv0e5gj7qx7m9zi6i9992j68909tjjdkwrxm2y5k.png" title="button1" alt="button1" />								</a>
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
-			<h2><h3 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-variant-ligatures: normal; font-variant-caps: normal; font-style: normal; font-weight: 400; text-transform: uppercase;">Discover Skill demand In Australia</h3></h2>		
-			<h2>Find demand and prediction of each occupation</h2>		
-											<a href="http://www.letsettle.net.au/occupations/" data-elementor-open-lightbox="">
-							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.37.19-pm-noqzqx90yf4gsj22b2bfxrr6z0y463taq98w97zszc.png" title="Screen Shot 2018-04-15 at 5.37.19 pm" alt="Screen Shot 2018-04-15 at 5.37.19 pm" />								</a>
-			<h2>Match your expertise with demand in each state</h2>		
-											<a href="http://www.letsettle.net.au/states/" data-elementor-open-lightbox="">
-							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/Screen-Shot-2018-04-15-at-5.53.29-pm-nor0gkajdq81hltal5b2yatubekk4vlpl5vpixz794.png" title="Screen Shot 2018-04-15 at 5.53.29 pm" alt="Screen Shot 2018-04-15 at 5.53.29 pm" />								</a>
-			<h3>fall in love with our features</h3>		
+			<h3>Make your australian dream come true</h3>		
 			<figure><img width="128" height="128" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399662_Marketing.png" alt="" /></figure><h3>Occupations in Demand</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
 			<figure><img width="128" height="128" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399671_SEO.png" alt="" /></figure><h3>Skill Assessment Info </h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar.</p>		
 			<figure><img width="128" height="128" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399715_E-Commerce.png" alt="" /></figure><h3>Employability</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
@@ -29,15 +22,12 @@ post_date: 2018-03-24 22:39:21
 			<figure><img width="128" height="128" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399656_Branding.png" alt="" /></figure><h3>Explore Australia</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
 			<h3>remain responsive across devices</h3>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<p>Read More</p>		
 										<img width="512" height="512" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399594_Web_Design.png" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/04/1470399594_Web_Design.png 512w, http://letsettle.net.au/wp-content/uploads/2018/04/1470399594_Web_Design-150x150.png 150w, http://letsettle.net.au/wp-content/uploads/2018/04/1470399594_Web_Design-300x300.png 300w" sizes="(max-width: 512px) 100vw, 512px" />											
 										<img width="512" height="512" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399614_Social_Media.png" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/04/1470399614_Social_Media.png 512w, http://letsettle.net.au/wp-content/uploads/2018/04/1470399614_Social_Media-150x150.png 150w, http://letsettle.net.au/wp-content/uploads/2018/04/1470399614_Social_Media-300x300.png 300w" sizes="(max-width: 512px) 100vw, 512px" />											
 			<h3>Understand your user experience</h3>		
 		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
-			<p>Read More</p>		
 			<h3>remain responsive across devices</h3>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<p>Read More</p>		
 										<img width="512" height="512" src="http://letsettle.net.au/wp-content/uploads/2018/04/1470399594_Web_Design.png" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/04/1470399594_Web_Design.png 512w, http://letsettle.net.au/wp-content/uploads/2018/04/1470399594_Web_Design-150x150.png 150w, http://letsettle.net.au/wp-content/uploads/2018/04/1470399594_Web_Design-300x300.png 300w" sizes="(max-width: 512px) 100vw, 512px" />											
 			<h3>Stories </h3>		
 										<img width="768" height="1024" src="http://letsettle.net.au/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM-768x1024.jpeg" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM.jpeg 768w, http://letsettle.net.au/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.24.57-PM-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" />											
