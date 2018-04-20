@@ -8,5 +8,3 @@ permalink: http://35.184.23.199/test-2/
 published: true
 post_date: 2018-04-20 04:10:40
 ---
-[ninja_form id=4]
-[table id=2 /]
