@@ -24,6 +24,7 @@ post_date: 2018-03-24 22:39:21
 			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/explore-noz8bqgqjquo7m455o583kd5gqh0kp8wcoqbn48rp2.png" title="explore" alt="explore" /></figure><h3>Explore Australia</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
 			<h3>why australia ?</h3>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="1631" height="1619" src="http://35.184.23.199/wp-content/uploads/2018/04/map.png" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/04/map.png 1631w, http://35.184.23.199/wp-content/uploads/2018/04/map-150x150.png 150w, http://35.184.23.199/wp-content/uploads/2018/04/map-300x298.png 300w, http://35.184.23.199/wp-content/uploads/2018/04/map-768x762.png 768w, http://35.184.23.199/wp-content/uploads/2018/04/map-1024x1016.png 1024w" sizes="(max-width: 1631px) 100vw, 1631px" />											
 			<h3>Skill shortage in australia</h3>		
 		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
 			<h3>a new life in australia</h3>		
