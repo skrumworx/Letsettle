@@ -9,7 +9,7 @@ published: true
 post_date: 2018-04-19 14:29:15
 ---
 <h2>SKILL ASSESSMENT INFO</h2>
-<img title="profile" src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" alt="profile" />[table id=1 /]
+<img title="profile" src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" alt="profile" />
 <h2>Choose the perfect visa Option</h2>
 Australia has three major visa options for individuals who wish to work or live in Australia. These visas are designed to target genuine skill shortages, diversify business expertise and increase entrepreneurial talent, without displacing Australian workers.
 <h2><b>Skilled Independent visa</b></h2>
