@@ -8,8 +8,10 @@ permalink: http://letsettle.net.au/test/
 published: true
 post_date: 2018-04-20 01:54:15
 ---
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript">
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
       google.charts.load('current', {'packages':['bar']});
       google.charts.setOnLoadCallback(drawChart);
 
@@ -35,5 +37,8 @@ post_date: 2018-04-20 01:54:15
         chart.draw(data, google.charts.Bar.convertOptions(options));
       }
     </script>
-<div id="barchart_material" style="width: 900px; height: 500px;"></div>
-&nbsp;
+  </head>
+  <body>
+    <div id="barchart_material" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
