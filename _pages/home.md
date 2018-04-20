@@ -16,10 +16,10 @@ post_date: 2018-03-24 22:39:21
 							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/demand-noz616b11r25b77x6586ifdagvmz3w93pqto1qpbbk.png" title="demand" alt="demand" />								</a>
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
 			<h3>Make your australian dream come true</h3>		
-			<h3>Occupations in Demand</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
-			<h3>Skill Assessment Info </h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar.</p>		
+			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/occupation-1-noz6nt94uytm2j5m29ofn6qa5ftmvccx43iz933aka.png" title="occupation" alt="occupation" /></figure><h3>Occupations in Demand</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
+			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/assessment-noz7334px1qcqeyvvdd6ntyxnujcy9zw7p60zyfza6.png" title="assessment" alt="assessment" /></figure><h3>Skill Assessment Info </h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar.</p>		
 			<h3>Employability</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
-			<h3>Skill Demand in States</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
+			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/state-noz6la2sg1csscu1uo9mfbqkj2b14payfk8vp8uh92.png" title="state" alt="state" /></figure><h3>Skill Demand in States</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
 			<h3>Additional Skills</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar </p>		
 			<h3>Explore Australia</h3><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo.</p>		
 			<h3>why australia ?</h3>		
