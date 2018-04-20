@@ -8,15 +8,4 @@ permalink: http://letsettle.net.au/test/
 published: true
 post_date: 2018-04-20 01:54:15
 ---
-<html>
-  <head>
-  </head>
-  <body>
-  </body>
-</html>		
-			<html>
-  <head>
-  </head>
-  <body>
-  </body>
-</html>
+[ninja_form id=3]
