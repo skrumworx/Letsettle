@@ -10,7 +10,7 @@ post_date: 2018-04-19 14:29:15
 ---
 <h2>SKILL ASSESSMENT INFO</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
-<iframe name="Search and Report" title="Search and Report" src="https://c5esh658.caspio.com/dp/ccf460002bfbf872a31c46b1b342">Sorry, but your browser does not support frames.</iframe>
+			<iframe style="height:400px;" name="Search and Report" title="Search and Report" src="https://c5esh658.caspio.com/dp/ccf460002bfbf872a31c46b1b342">Sorry, but your browser does not support frames.</iframe>		
 			<h2>Choose the perfect visa Option</h2>		
 		<p>Australia has three major visa options for individuals who wish to work or live in Australia. These visas are designed to target genuine skill shortages, diversify business expertise and increase entrepreneurial talent, without displacing Australian workers.</p>		
 			<h2><b>Skilled Independent visa</b><br><br>Sub Class 189</h2>		
