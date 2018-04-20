@@ -9,5 +9,8 @@ published: true
 post_date: 2018-04-20 04:10:40
 ---
 [ninja_form id=4]
-
-[table id=2 /]
+[table id=2 /]		
+  <button onclick="myFunction()">Dropdown</button>
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
