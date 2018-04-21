@@ -26,7 +26,3 @@ post_date: 2018-04-16 10:10:04
                 <p> Lorem ipsum portfolio </p>
                 <h1> Portfolio </h1>
                 <p> Lorem ipsum portfolio </p>
-                <h1> Blog </h1>
-                <p> Lorem ipsum blog </p>
-                <h1> Contact Me </h1>
-                <p> Lorem ipsum contact </p>
