@@ -12,9 +12,6 @@ post_date: 2018-04-16 10:10:04
 			<h2>Add Your Heading Text Here</h2>		
 										<img width="1024" height="385" src="http://35.184.23.199/wp-content/uploads/2018/03/skillllll-1024x385.png" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/03/skillllll-1024x385.png 1024w, http://35.184.23.199/wp-content/uploads/2018/03/skillllll-300x113.png 300w, http://35.184.23.199/wp-content/uploads/2018/03/skillllll-768x289.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>SKILL DEMAND IN STATES</h2>		
-			<a href="#" role="button">
-						Click here
-					</a>
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/vic-1-noy02pjm6fu44sxf73p5azy97284zdbbeb7hp4pe6e.png" title="vic" alt="vic" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/nsw-1-noy05va35e5t5mc7qyv06p912onjuquu5y58rm0r9i.png" title="nsw" alt="nsw" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/qld-1-noy0u5fzpbeh2z2fygq1lknpj0ywp997i4ut2y0miu.png" title="qld" alt="qld" />											
