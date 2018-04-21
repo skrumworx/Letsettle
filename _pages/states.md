@@ -13,6 +13,7 @@ post_date: 2018-04-16 10:10:04
 										<img width="1024" height="385" src="http://35.184.23.199/wp-content/uploads/2018/03/skillllll-1024x385.png" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/03/skillllll-1024x385.png 1024w, http://35.184.23.199/wp-content/uploads/2018/03/skillllll-300x113.png 300w, http://35.184.23.199/wp-content/uploads/2018/03/skillllll-768x289.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>SKILL DEMAND IN STATES</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/vic-1-noy02pjm6fu44sxf73p5azy97284zdbbeb7hp4pe6e.png" title="vic" alt="vic" />											
+			<a  data-page="vic" href="#"><h3> Victoria </h3></a>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/nsw-1-noy05va35e5t5mc7qyv06p912onjuquu5y58rm0r9i.png" title="nsw" alt="nsw" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/qld-1-noy0u5fzpbeh2z2fygq1lknpj0ywp997i4ut2y0miu.png" title="qld" alt="qld" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/wa-1-noy0x2pwyrel7ativq89cu3c26k0ncv58lx6txoj5y.png" title="wa" alt="wa" />											
@@ -26,3 +27,17 @@ post_date: 2018-04-16 10:10:04
                 <p> Lorem ipsum portfolio111 </p>
                 <h1> Portfolio222 </h1>
                 <p> Lorem ipsum portfolio222 </p>
+<ul id="menu" >
+    <li><a data-page="information" href="#"><h3> Information </h3> </a></li>
+    <li><a data-page="portfolio" href="#"><h3> Portfolio </h3> </a></li> 
+    <li><a data-page="blog" href="#"><h3> Blog </h3> </a></li>
+    <li><a data-page="contact" href="#"><h3> Contact Me </h3> </a></li>
+</ul>
+                <h1> About Me </h1>
+                <p> Lorem ipsum information </p>
+                <h1> Portfolio </h1>
+                <p> Lorem ipsum portfolio </p>
+                <h1> Blog </h1>
+                <p> Lorem ipsum blog </p>
+                <h1> Contact Me </h1>
+                <p> Lorem ipsum contact </p>
