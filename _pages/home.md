@@ -31,6 +31,7 @@ post_date: 2018-03-24 22:39:21
 			<h3>Let's settle in australia</h3>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 										<img width="1365" height="1373" src="http://letsettle.net.au/wp-content/uploads/2018/04/shortage.png" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/04/shortage.png 1365w, http://letsettle.net.au/wp-content/uploads/2018/04/shortage-150x150.png 150w, http://letsettle.net.au/wp-content/uploads/2018/04/shortage-298x300.png 298w, http://letsettle.net.au/wp-content/uploads/2018/04/shortage-768x773.png 768w, http://letsettle.net.au/wp-content/uploads/2018/04/shortage-1018x1024.png 1018w" sizes="(max-width: 1365px) 100vw, 1365px" />											
+			<h2>Stories</h2>		
 						As a international student studying in Monash University and will graduate in July. I would like to use the website to find the most suitable state for me to settle. In fact, I am searching for jobs these days and it is hard to find a job which matches my skills. However, this website helps me a lot to get rid of this confusing situation. According to the recommendations given by the website, I am now applying PR to migrate Northern Territory,					
 						<img src="http://letsettle.net.au/wp-content/uploads/2018/03/WhatsApp-Image-2018-03-26-at-9.19.51-PM.jpeg" alt="Shuonan Yang">
 								<cite>Shuonan YangCurrent User</cite>			
