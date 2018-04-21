@@ -10,16 +10,35 @@ post_date: 2018-04-18 23:23:01
 ---
 <h2>KEEP LOOKING FOR YOUR JOB OPPORTUNITIES</h2>		
 			<h2>Places where you can find job opportunities</h2>		
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/visa-np1jb44wvmu8rsg9xch8pmdvw1r47nfy3iqxpn8tlu.png" title="visa" alt="visa" />											
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/visa-np1jb44wvmu8rsg9xch8pmdvw1r47nfy3iqxpn8tlu.png" title="visa" alt="visa" />											
 			<h2>current Employability rates and future projections </h2>		
-			<h2>Arts and Media Professionals</h2>		
-			<h2>Arts and Media Professional</h2>		
-			<h2>Business,Human Resources and Marketing</h2>		
+			<h2>Arts and Media Professionals<br><br></h2>		
+						Employment level - May 2017 ('000)
+				106.8
+						Projected employment level - May 2022 ('000)
+				107.0
+                        1<sup>%</sup>
+                    Growth
+			<h2>Business, Human Resource and Marketing Professionals
+</h2>		
+						Employment level - May 2017 ('000)
+				106.8
+						Projected employment level - May 2022 ('000)
+				107.0
+                        1<sup>%</sup>
+                    Growth
+			<h2>Business, Human Resource and Marketing Professionals
+</h2>		
+			<h2>Design, Engineering, Science and Transport Professionals
+</h2>		
+			<h2>Education Professionals
+</h2>		
+			<h2>Health Professionals
+</h2>		
 			<h2>ICT Professionals</h2>		
-			<h2>Design, Engineering,Science &amp; Transport Professionals</h2>		
-			<h2>Arts and Media Professionals</h2>		
-			<h2>Arts and Media Professionals</h2>		
-			<h2>Arts and Media Professionals</h2>		
+			<h2>Legal, Social and Welfare Professionals
+</h2>		
+			<noscript><a href='#'><img alt='Avearge earnings per week in 2017 (AUD) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;Letsettle_Graphs&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Letsettle_Graphs&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;Letsettle_Graphs&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object>                		
 												Arts and Media Professionals					
 					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Arts Professionals</td><td>45.0</td><td>45.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Actors, Dancers and Other Entertainers</td><td>10.4</td><td>10.8</td><td>0.5</td><td>4.5</td></tr><tr><td>Music Professionals</td><td>8.7</td><td>8.1</td><td>-0.6</td><td>-7.0</td></tr><tr><td>Photographers</td><td>15.7</td><td>16.4</td><td>0.7</td><td>4.5</td></tr><tr><td>Visual Arts and Crafts Professionals</td><td>8.5</td><td>8.0</td><td>-0.5</td><td>-5.8</td></tr><tr><td>Arts Professionals nfd</td><td>1.3</td><td>1.2</td><td>-0.1</td><td>-4.6</td></tr><tr><td>Media Professionals</td><td>62.6</td><td>62.7</td><td>0.2</td><td>0.2</td></tr><tr><td>Artistic Directors, and Media Producers and Presenters</td><td>14.1</td><td>15.0</td><td>0.9</td><td>6.5</td></tr><tr><td>Authors, and Book and Script Editors</td><td>10.5</td><td>11.1</td><td>0.6</td><td>5.4</td></tr><tr><td>Film, Television, Radio and Stage Directors</td><td>12.0</td><td>11.2</td><td>-0.7</td><td>-6.1</td></tr><tr><td>Journalists and Other Writers</td><td>24.6</td><td>23.7</td><td>-0.8</td><td>-3.4</td></tr><tr><td>Media Professionals nfd</td><td>1.8</td><td>2.1</td><td>0.2</td><td>13.1</td></tr><tr><td>Arts and Media Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-16.2</td></tr><tr><td>Arts and Media Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-16.2</td></tr></tbody></table>
 												Business, Human Resource and Marketing Professionals					
