@@ -31,6 +31,6 @@ post_date: 2018-04-18 23:23:01
 									TAS
 					<table width="134"><tbody><tr><td width="134"><a href="https://www.seek.com.au/jobs/in-Tasmania-TAS" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="http://www.jobs.tas.gov.au/" target="_blank" rel="noopener">Tasmania Government</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
 									NT
-					<table width="132"><tbody><tr><td width="132">SEEK</td></tr><tr><td>NT Government</td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
+					<table width="132"><tbody><tr><td width="132"><a href="https://www.seek.com.au/jobs/in-Northern-Territory-NT?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMI5Yzk1rTK2gIVUyQrCh1p_w05EAAYASAAEgInnvD_BwE&amp;gclsrc=aw.ds&amp;dclid=CMj9wvG0ytoCFR4eKgodYIoChw" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="http://www.careers.nt.gov.au/Pages/default.aspx" target="_blank" rel="noopener">NT Government</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
 									ACT
-					<table width="141"><tbody><tr><td width="141">SEEK</td></tr><tr><td>ACT Government</td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
+					<table width="141"><tbody><tr><td width="141"><a href="https://www.seek.com.au/jobs/in-All-Canberra-ACT" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="https://www.jobs.act.gov.au/" target="_blank" rel="noopener">ACT Government</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
