@@ -38,4 +38,15 @@ post_date: 2018-04-19 14:29:15
 			<h2><b>Skilled Nominated </b><br><b>Visa</b><br><br>Sub class 190</h2>		
 		<p>This visa allows skilled workers who are nominated by an Australian state or territory government live and work in Australia as a permanent resident </p><p><strong><a style="color: #ffffff; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/190-" target="_blank" rel="noopener">More Info</a></strong></p>		
 			<h2><b>Skilled Regional<br> Visa</b><br><br>Sub class 489</h2>		
-		<p>This visa allows skilled workers to live and work in regional or low-population growth metropolitan areas of Australia for up to four years</p><p><strong><a style="color: #808080; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/489-" target="_blank" rel="noopener">More Info</a></strong></p>
+		<p>This visa allows skilled workers to live and work in regional or low-population growth metropolitan areas of Australia for up to four years</p><p><strong><a style="color: #808080; text-decoration: underline;" href="https://www.homeaffairs.gov.au/trav/visa-1/489-" target="_blank" rel="noopener">More Info</a></strong></p>		
+			<h2>Visa Application processing time</h2>		
+		<h2 style="text-align: center;">Skilled Independent Visa </h2><p style="text-align: center;">Sub Class 189</p><h2 style="text-align: center;">Skilled Nominated Visa </h2><p style="text-align: center;">Sub Class 190</p><h2 style="text-align: center;">Skilled Regional Visa </h2><p style="text-align: center;">Sub Class 489</p>		
+                        75<sup>%</sup>
+                    In 8 Months
+                        90<sup>%</sup>
+                    In 10 Months
+                        75<sup>%</sup>
+                    In 8 Months
+                        90<sup>%</sup>
+                    In 11 Months
+		<h2> </h2><h2 style="text-align: center;">No stats available due to law volume of application</h2><pre>Reference : <a style="color: #999999;" href="http://www.homeaffairs.gov.au" target="_blank" rel="noopener">www.homeaffairs.gov.au </a></pre>
