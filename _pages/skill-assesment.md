@@ -49,4 +49,6 @@ post_date: 2018-04-19 14:29:15
                     In 8 Months
                         90<sup>%</sup>
                     In 11 Months
-		<h2> </h2><h2 style="text-align: center;">No stats available due to law volume of application</h2><pre>Reference : <a style="color: #999999;" href="http://www.homeaffairs.gov.au" target="_blank" rel="noopener">www.homeaffairs.gov.au </a></pre>
+                        75<sup>%</sup>
+                        90<sup>%</sup>
+			<h2><a href="https://www.homeaffairs.gov.au">Note : No processing time available for Skilled Regional Visa type due to the law volume of applications <br><br>References : www.homeaffairs.gov.au</a></h2>
