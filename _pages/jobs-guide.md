@@ -8,150 +8,46 @@ permalink: http://letsettle.net.au/jobs-guide/
 published: true
 post_date: 2018-04-18 23:23:01
 ---
-<h2>KEEP LOOKING FOR YOUR JOB OPPORTUNITIES</h2>
-<h2>Places where you can find job opportunities</h2>
-<img title="visa" src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/visa-np1jb44wvmu8rsg9xch8pmdvw1r47nfy3iqxpn8tlu.png" alt="visa" />
-VIC
-NSW
-QLD
-WA
-SA
-TAS
-NT
-ACT
-VIC
-<table width="168">
-<tbody>
-<tr>
-<td width="168"><a href="https://www.seek.com.au/jobs/in-Victoria-VIC?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMIiJ-GrZ_K2gIVSx0rCh2ctgD6EAAYASAAEgIe9_D_BwE&amp;gclsrc=aw.ds&amp;dclid=CMmrpK-fytoCFUo3lgodHqgCYQ" target="_blank" rel="noopener">SEEK</a></td>
-</tr>
-<tr>
-<td><a href="https://www.vic.gov.au/" target="_blank" rel="noopener">Victoria Government </a></td>
-</tr>
-<tr>
-<td><a href="https://jobs.vic.gov.au/" target="_blank" rel="noopener">Jobs Victoria</a></td>
-</tr>
-<tr>
-<td><a href="https://jobsearch.gov.au/search/by-location/jobs-in-melbourne-vic?code=71" target="_blank" rel="noopener">Job Active</a></td>
-</tr>
-</tbody>
-</table>
-NSW
-<table width="136">
-<tbody>
-<tr>
-<td width="136"><a href="https://www.seek.com.au/jobs/in-New-South-Wales-NSW?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMI2Mbej6LK2gIVCx4rCh2wJw8yEAAYASAAEgITAvD_BwE&amp;gclsrc=aw.ds&amp;dclid=CN7ivJaiytoCFU9plgoduFgA-w" target="_blank" rel="noopener">SEEK</a></td>
-</tr>
-<tr>
-<td><a href="https://iworkfor.nsw.gov.au/" target="_blank" rel="noopener">I work for NSW</a></td>
-</tr>
-<tr>
-<td> <a href="https://au.jora.com/jobs-in-Sydney-NSW?gclid=EAIaIQobChMIu4iw4a3K2gIVxgorCh13ug4eEAAYAyAAEgJ34vD_BwE" target="_blank" rel="noopener">Jora Australia </a></td>
-</tr>
-<tr>
-<td><a href="https://au.indeed.com/jobs-in-Sydney-NSW" target="_blank" rel="noopener">Indeed </a></td>
-</tr>
-</tbody>
-</table>
-QLD
-<table width="141">
-<tbody>
-<tr>
-<td width="141"><a href="https://www.seek.com.au/jobs/in-Queensland-QLD" target="_blank" rel="noopener">SEEK</a></td>
-</tr>
-<tr>
-<td><a href="https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904" target="_blank" rel="noopener">Queensland Government</a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-WA
-<table width="128">
-<tbody>
-<tr>
-<td width="128"><a href="https://www.seek.com.au/jobs/in-Western-Australia-WA?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMI36vQ37LK2gIVjzUrCh2tRwHzEAAYASAAEgJokfD_BwE&amp;gclsrc=aw.ds&amp;dclid=CIWKpeeyytoCFZ0YKgodBnkFTg" target="_blank" rel="noopener">SEEK</a></td>
-</tr>
-<tr>
-<td><a href="https://jobs.wa.gov.au/" target="_blank" rel="noopener">Western Austrlia  Government</a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-SA
-<table width="141">
-<tbody>
-<tr>
-<td width="141"><a href="https://www.seek.com.au/jobs/in-South-Australia-SA" target="_blank" rel="noopener">SEEK</a></td>
-</tr>
-<tr>
-<td><a href="https://iworkfor.sa.gov.au/" target="_blank" rel="noopener">I work for SA</a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-TAS
-<table width="134">
-<tbody>
-<tr>
-<td width="134"><a href="https://www.seek.com.au/jobs/in-Tasmania-TAS" target="_blank" rel="noopener">SEEK</a></td>
-</tr>
-<tr>
-<td><a href="http://www.jobs.tas.gov.au/" target="_blank" rel="noopener">Tasmania Government</a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-NT
-<table width="132">
-<tbody>
-<tr>
-<td width="132"><a href="https://www.seek.com.au/jobs/in-Northern-Territory-NT?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMI5Yzk1rTK2gIVUyQrCh1p_w05EAAYASAAEgInnvD_BwE&amp;gclsrc=aw.ds&amp;dclid=CMj9wvG0ytoCFR4eKgodYIoChw" target="_blank" rel="noopener">SEEK</a></td>
-</tr>
-<tr>
-<td><a href="http://www.careers.nt.gov.au/Pages/default.aspx" target="_blank" rel="noopener">NT Government</a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-ACT
-<table width="141">
-<tbody>
-<tr>
-<td width="141"><a href="https://www.seek.com.au/jobs/in-All-Canberra-ACT" target="_blank" rel="noopener">SEEK</a></td>
-</tr>
-<tr>
-<td><a href="https://www.jobs.act.gov.au/" target="_blank" rel="noopener">ACT Government</a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
+<h2>KEEP LOOKING FOR YOUR JOB OPPORTUNITIES</h2>		
+			<h2>Places where you can find job opportunities</h2>		
+										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/visa-np1jb44wvmu8rsg9xch8pmdvw1r47nfy3iqxpn8tlu.png" title="visa" alt="visa" />											
+			<h2>current Employability rates and future projections </h2>		
+												Arts and Media Professionals					
+					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Arts Professionals</td><td>45.0</td><td>45.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Actors, Dancers and Other Entertainers</td><td>10.4</td><td>10.8</td><td>0.5</td><td>4.5</td></tr><tr><td>Music Professionals</td><td>8.7</td><td>8.1</td><td>-0.6</td><td>-7.0</td></tr><tr><td>Photographers</td><td>15.7</td><td>16.4</td><td>0.7</td><td>4.5</td></tr><tr><td>Visual Arts and Crafts Professionals</td><td>8.5</td><td>8.0</td><td>-0.5</td><td>-5.8</td></tr><tr><td>Arts Professionals nfd</td><td>1.3</td><td>1.2</td><td>-0.1</td><td>-4.6</td></tr><tr><td>Media Professionals</td><td>62.6</td><td>62.7</td><td>0.2</td><td>0.2</td></tr><tr><td>Artistic Directors, and Media Producers and Presenters</td><td>14.1</td><td>15.0</td><td>0.9</td><td>6.5</td></tr><tr><td>Authors, and Book and Script Editors</td><td>10.5</td><td>11.1</td><td>0.6</td><td>5.4</td></tr><tr><td>Film, Television, Radio and Stage Directors</td><td>12.0</td><td>11.2</td><td>-0.7</td><td>-6.1</td></tr><tr><td>Journalists and Other Writers</td><td>24.6</td><td>23.7</td><td>-0.8</td><td>-3.4</td></tr><tr><td>Media Professionals nfd</td><td>1.8</td><td>2.1</td><td>0.2</td><td>13.1</td></tr><tr><td>Arts and Media Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-16.2</td></tr><tr><td>Arts and Media Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-16.2</td></tr></tbody></table>
+												Business, Human Resource and Marketing Professionals					
+					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Accountants, Auditors and Company Secretaries</td><td>206.8</td><td>224.1</td><td>17.3</td><td>8.3</td></tr><tr><td>Accountants</td><td>189.1</td><td>202.1</td><td>13.0</td><td>6.9</td></tr><tr><td>Auditors, Company Secretaries and Corporate Treasurers</td><td>18.0</td><td>22.2</td><td>4.2</td><td>23.6</td></tr><tr><td>Accountants, Auditors and Company Secretaries nfd</td><td>0.3</td><td>0.3</td><td>0.0</td><td>4.7</td></tr><tr><td>Financial Brokers and Dealers, and Investment Advisers</td><td>97.6</td><td>104.5</td><td>6.9</td><td>7.1</td></tr><tr><td>Financial Brokers</td><td>34.5</td><td>40.2</td><td>5.6</td><td>16.3</td></tr><tr><td>Financial Dealers</td><td>18.8</td><td>18.7</td><td>-0.1</td><td>-0.4</td></tr><tr><td>Financial Investment Advisers and Managers</td><td>45.9</td><td>47.2</td><td>1.3</td><td>2.9</td></tr><tr><td>Financial Brokers and Dealers, and Investment Advisers nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>1.4</td></tr><tr><td>Human Resource and Training Professionals</td><td>92.4</td><td>95.8</td><td>3.4</td><td>3.7</td></tr><tr><td>Human Resource Professionals</td><td>63.4</td><td>66.6</td><td>3.2</td><td>5.1</td></tr><tr><td>ICT Trainers</td><td>2.5</td><td>2.7</td><td>0.2</td><td>7.1</td></tr><tr><td>Training and Development Professionals</td><td>26.6</td><td>26.6</td><td>0.0</td><td>-0.1</td></tr><tr><td>Human Resource and Training Professionals nfd</td><td>0.2</td><td>0.2</td><td>0.0</td><td>-1.8</td></tr><tr><td>Information and Organisation Professionals</td><td>147.3</td><td>173.7</td><td>26.4</td><td>17.9</td></tr><tr><td>Actuaries, Mathematicians and Statisticians</td><td>8.4</td><td>9.8</td><td>1.5</td><td>17.9</td></tr><tr><td>Archivists, Curators and Records Managers</td><td>6.6</td><td>7.8</td><td>1.2</td><td>18.3</td></tr><tr><td>Economists</td><td>5.4</td><td>6.2</td><td>0.8</td><td>15.4</td></tr><tr><td>Intelligence and Policy Analysts</td><td>21.3</td><td>24.6</td><td>3.3</td><td>15.4</td></tr><tr><td>Land Economists and Valuers</td><td>10.5</td><td>12.2</td><td>1.6</td><td>15.4</td></tr><tr><td>Librarians</td><td>12.5</td><td>14.5</td><td>2.0</td><td>15.6</td></tr><tr><td>Management and Organisation Analysts</td><td>57.8</td><td>66.7</td><td>8.9</td><td>15.4</td></tr><tr><td>Other Information and Organisation Professionals</td><td>24.9</td><td>32.0</td><td>7.1</td><td>28.5</td></tr><tr><td>Information and Organisation Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>26.3</td></tr><tr><td>Sales, Marketing and Public Relations Professionals</td><td>128.4</td><td>133.2</td><td>4.8</td><td>3.7</td></tr><tr><td>Advertising and Marketing Professionals</td><td>63.6</td><td>70.3</td><td>6.7</td><td>10.5</td></tr><tr><td>ICT Sales Professionals</td><td>11.6</td><td>10.3</td><td>-1.3</td><td>-11.2</td></tr><tr><td>Public Relations Professionals</td><td>25.7</td><td>28.2</td><td>2.5</td><td>9.8</td></tr><tr><td>Technical Sales Representatives</td><td>28.6</td><td>25.5</td><td>-3.1</td><td>-10.9</td></tr><tr><td>Sales, Marketing and Public Relations Professionals nfd</td><td>0.3</td><td>0.3</td><td>0.0</td><td>0.0</td></tr><tr><td>Business, Human Resource and Marketing Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>2.5</td></tr><tr><td>Business, Human Resource and Marketing Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>2.5</td></tr></tbody></table><p> </p>
+												ICT					
+					<table width="1007"><tbody><tr><td width="276"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Business and Systems Analysts, and Programmers</td><td>139.2</td><td>155.4</td><td>16.1</td><td>11.6</td></tr><tr><td>ICT Business and Systems Analysts</td><td>26.1</td><td>27.0</td><td>0.9</td><td>3.5</td></tr><tr><td>Multimedia Specialists and Web Developers</td><td>8.8</td><td>9.0</td><td>0.2</td><td>1.7</td></tr><tr><td>Software and Applications Programmers</td><td>104.0</td><td>119.0</td><td>15.1</td><td>14.5</td></tr><tr><td>Business and Systems Analysts, and Programmers nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>3.0</td></tr><tr><td>Database and Systems Administrators, and ICT Security Specialists</td><td>36.7</td><td>41.0</td><td>4.3</td><td>11.8</td></tr><tr><td>Database and Systems Administrators, and ICT Security Specialists</td><td>36.7</td><td>41.0</td><td>4.3</td><td>11.8</td></tr><tr><td>ICT Network and Support Professionals</td><td>45.2</td><td>51.2</td><td>6.0</td><td>13.2</td></tr><tr><td>Computer Network Professionals</td><td>22.6</td><td>23.2</td><td>0.6</td><td>2.6</td></tr><tr><td>ICT Support and Test Engineers</td><td>10.4</td><td>13.3</td><td>2.9</td><td>27.8</td></tr><tr><td>Telecommunications Engineering Professionals</td><td>12.5</td><td>15.0</td><td>2.5</td><td>19.9</td></tr><tr><td>ICT Network and Support Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>13.2</td></tr><tr><td>ICT Professionals nfd</td><td>22.6</td><td>26.0</td><td>3.5</td><td>15.4</td></tr><tr><td>ICT Professionals nfd</td><td>22.6</td><td>26.0</td><td>3.5</td><td>15.4</td></tr></tbody></table>
+												Design, Engineering, Science and Transport Professionals					
+					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Air and Marine Transport Professionals</td><td>21.0</td><td>20.9</td><td>-0.1</td><td>-0.6</td></tr><tr><td>Air Transport Professionals</td><td>12.7</td><td>12.9</td><td>0.2</td><td>2.0</td></tr><tr><td>Marine Transport Professionals</td><td>8.2</td><td>7.9</td><td>-0.4</td><td>-4.5</td></tr><tr><td>Air and Marine Transport Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>0.0</td></tr><tr><td>Architects, Designers, Planners and Surveyors</td><td>138.9</td><td>155.7</td><td>16.9</td><td>12.2</td></tr><tr><td>Architects and Landscape Architects</td><td>22.7</td><td>24.8</td><td>2.1</td><td>9.2</td></tr><tr><td>Surveyors and Spatial Scientists</td><td>15.2</td><td>13.9</td><td>-1.3</td><td>-8.4</td></tr><tr><td>Fashion, Industrial and Jewellery Designers</td><td>12.0</td><td>14.4</td><td>2.4</td><td>20.1</td></tr><tr><td>Graphic and Web Designers, and Illustrators</td><td>59.2</td><td>68.7</td><td>9.6</td><td>16.1</td></tr><tr><td>Interior Designers</td><td>15.2</td><td>17.7</td><td>2.5</td><td>16.3</td></tr><tr><td>Urban and Regional Planners</td><td>14.6</td><td>16.2</td><td>1.6</td><td>11.1</td></tr><tr><td>Architects, Designers, Planners and Surveyors nfd</td><td>1.0</td><td>1.0</td><td>0.0</td><td>1.1</td></tr><tr><td>Engineering Professionals</td><td>146.2</td><td>159.9</td><td>13.7</td><td>9.4</td></tr><tr><td>Chemical and Materials Engineers</td><td>4.1</td><td>4.1</td><td>0.1</td><td>1.5</td></tr><tr><td>Civil Engineering Professionals</td><td>54.4</td><td>65.6</td><td>11.2</td><td>20.6</td></tr><tr><td>Electrical Engineers</td><td>16.4</td><td>16.6</td><td>0.2</td><td>1.5</td></tr><tr><td>Electronics Engineers</td><td>3.5</td><td>3.6</td><td>0.1</td><td>1.5</td></tr><tr><td>Industrial, Mechanical and Production Engineers</td><td>30.8</td><td>29.1</td><td>-1.6</td><td>-5.3</td></tr><tr><td>Mining Engineers</td><td>11.0</td><td>11.9</td><td>1.0</td><td>8.8</td></tr><tr><td>Other Engineering Professionals</td><td>11.6</td><td>13.2</td><td>1.5</td><td>13.2</td></tr><tr><td>Engineering Professionals nfd</td><td>14.0</td><td>15.3</td><td>1.3</td><td>9.0</td></tr><tr><td>Natural and Physical Science Professionals</td><td>115.5</td><td>127.1</td><td>11.6</td><td>10.1</td></tr><tr><td>Agricultural and Forestry Scientists</td><td>14.1</td><td>14.2</td><td>0.1</td><td>0.6</td></tr><tr><td>Chemists, and Food and Wine Scientists</td><td>9.1</td><td>10.2</td><td>1.1</td><td>12.4</td></tr><tr><td>Environmental Scientists</td><td>25.9</td><td>31.6</td><td>5.7</td><td>22.1</td></tr><tr><td>Geologists, Geophysicists and Hydrogeologists</td><td>8.3</td><td>8.3</td><td>0.1</td><td>0.6</td></tr><tr><td>Life Scientists</td><td>6.6</td><td>6.9</td><td>0.3</td><td>5.2</td></tr><tr><td>Medical Laboratory Scientists</td><td>23.8</td><td>25.0</td><td>1.1</td><td>4.8</td></tr><tr><td>Veterinarians</td><td>10.8</td><td>11.9</td><td>1.1</td><td>9.9</td></tr><tr><td>Other Natural and Physical Science Professionals</td><td>9.0</td><td>9.7</td><td>0.7</td><td>7.9</td></tr><tr><td>Natural and Physical Science Professionals nfd</td><td>6.2</td><td>7.6</td><td>1.4</td><td>22.2</td></tr><tr><td>Design, Engineering, Science and Transport Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>0.0</td></tr><tr><td>Design, Engineering, Science and Transport Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>0.0</td></tr></tbody></table>
+												Education Professionals					
+					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>School Teachers</td><td>403.3</td><td>441.8</td><td>38.4</td><td>9.5</td></tr><tr><td>Early Childhood (Pre-primary School) Teachers</td><td>47.0</td><td>59.4</td><td>12.4</td><td>26.4</td></tr><tr><td>Primary School Teachers</td><td>155.1</td><td>166.0</td><td>10.9</td><td>7.0</td></tr><tr><td>Middle School Teachers</td><td>0.8</td><td>0.8</td><td>0.0</td><td>-4.0</td></tr><tr><td>Secondary School Teachers</td><td>133.2</td><td>139.0</td><td>5.8</td><td>4.3</td></tr><tr><td>Special Education Teachers</td><td>19.5</td><td>20.7</td><td>1.2</td><td>5.9</td></tr><tr><td>School Teachers nfd</td><td>50.7</td><td>58.9</td><td>8.2</td><td>16.2</td></tr><tr><td>Tertiary Education Teachers</td><td>75.8</td><td>81.0</td><td>5.2</td><td>6.8</td></tr><tr><td>University Lecturers and Tutors</td><td>47.1</td><td>50.4</td><td>3.3</td><td>7.0</td></tr><tr><td>Vocational Education Teachers</td><td>26.3</td><td>28.0</td><td>1.7</td><td>6.3</td></tr><tr><td>Tertiary Education Teachers nfd</td><td>1.6</td><td>1.8</td><td>0.2</td><td>12.2</td></tr><tr><td>Miscellaneous Education Professionals</td><td>59.8</td><td>67.9</td><td>8.2</td><td>13.6</td></tr><tr><td>Education Advisers and Reviewers</td><td>19.2</td><td>22.6</td><td>3.3</td><td>17.4</td></tr><tr><td>Private Tutors and Teachers</td><td>35.0</td><td>39.4</td><td>4.5</td><td>12.8</td></tr><tr><td>Teachers of English to Speakers of Other Languages</td><td>6.8</td><td>7.2</td><td>0.3</td><td>4.5</td></tr><tr><td>Miscellaneous Education Professionals nfd</td><td>0.2</td><td>0.2</td><td>0.0</td><td>22.5</td></tr><tr><td>Education Professionals nfd</td><td>6.3</td><td>7.3</td><td>1.0</td><td>15.3</td></tr><tr><td>Education Professionals nfd</td><td>6.3</td><td>7.3</td><td>1.0</td><td>15.3</td></tr></tbody></table><p> </p>
+												Health Professionals					
+					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Health Diagnostic and Promotion Professionals</td><td>93.9</td><td>106.9</td><td>13.0</td><td>13.9</td></tr><tr><td>Nutrition Professionals</td><td>8.4</td><td>9.9</td><td>1.6</td><td>18.8</td></tr><tr><td>Medical Imaging Professionals</td><td>18.3</td><td>20.4</td><td>2.1</td><td>11.3</td></tr><tr><td>Occupational and Environmental Health Professionals</td><td>26.4</td><td>30.6</td><td>4.1</td><td>15.7</td></tr><tr><td>Optometrists and Orthoptists</td><td>5.5</td><td>6.2</td><td>0.6</td><td>11.3</td></tr><tr><td>Pharmacists</td><td>29.1</td><td>32.4</td><td>3.3</td><td>11.3</td></tr><tr><td>Other Health Diagnostic and Promotion Professionals</td><td>6.1</td><td>7.4</td><td>1.3</td><td>21.7</td></tr><tr><td>Health Diagnostic and Promotion Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>0.0</td></tr><tr><td>Health Therapy Professionals</td><td>87.1</td><td>108.9</td><td>21.7</td><td>25.0</td></tr><tr><td>Chiropractors and Osteopaths</td><td>5.7</td><td>6.9</td><td>1.2</td><td>20.9</td></tr><tr><td>Complementary Health Therapists</td><td>7.3</td><td>8.3</td><td>1.0</td><td>13.9</td></tr><tr><td>Dental Practitioners</td><td>12.7</td><td>15.4</td><td>2.7</td><td>20.9</td></tr><tr><td>Occupational Therapists</td><td>16.7</td><td>21.2</td><td>4.5</td><td>26.8</td></tr><tr><td>Physiotherapists</td><td>30.3</td><td>39.2</td><td>8.9</td><td>29.4</td></tr><tr><td>Podiatrists</td><td>4.0</td><td>4.5</td><td>0.5</td><td>12.8</td></tr><tr><td>Audiologists and Speech Pathologists  Therapists</td><td>9.2</td><td>12.1</td><td>3.0</td><td>32.6</td></tr><tr><td>Health Therapy Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>0.0</td></tr><tr><td>Medical Practitioners</td><td>102.6</td><td>123.9</td><td>21.3</td><td>20.8</td></tr><tr><td>General Practitioners and Resident Medical Officers</td><td>67.3</td><td>81.8</td><td>14.5</td><td>21.6</td></tr><tr><td>Anaesthetists</td><td>3.4</td><td>4.1</td><td>0.8</td><td>22.5</td></tr><tr><td>Specialist Physicians</td><td>8.7</td><td>10.8</td><td>2.1</td><td>24.1</td></tr><tr><td>Psychiatrists</td><td>2.0</td><td>2.4</td><td>0.4</td><td>20.4</td></tr><tr><td>Surgeons</td><td>7.3</td><td>8.7</td><td>1.4</td><td>19.5</td></tr><tr><td>Other Medical Practitioners</td><td>12.5</td><td>14.3</td><td>1.8</td><td>14.7</td></tr><tr><td>Medical Practitioners nfd</td><td>1.2</td><td>1.5</td><td>0.3</td><td>21.4</td></tr><tr><td>Midwifery and Nursing Professionals</td><td>324.8</td><td>398.5</td><td>73.7</td><td>22.7</td></tr><tr><td>Midwives</td><td>17.1</td><td>18.8</td><td>1.7</td><td>10.2</td></tr><tr><td>Nurse Educators and Researchers</td><td>8.1</td><td>10.4</td><td>2.3</td><td>29.0</td></tr><tr><td>Nurse Managers</td><td>17.0</td><td>21.2</td><td>4.2</td><td>24.9</td></tr><tr><td>Registered Nurses</td><td>283.8</td><td>349.1</td><td>65.3</td><td>23.0</td></tr><tr><td>Midwifery and Nursing Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>22.6</td></tr><tr><td>Health Professionals nfd</td><td>0.5</td><td>0.6</td><td>0.1</td><td>17.3</td></tr><tr><td>Health Professionals nfd</td><td>0.5</td><td>0.6</td><td>0.1</td><td>17.3</td></tr></tbody></table>
+												Legal, Social and Welfare Professionals					
+					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Legal Professionals</td><td>87.7</td><td>93.1</td><td>5.3</td><td>6.1</td></tr><tr><td>Barristers</td><td>6.7</td><td>7.5</td><td>0.7</td><td>10.8</td></tr><tr><td>Judicial and Other Legal Professionals</td><td>11.0</td><td>11.7</td><td>0.7</td><td>6.5</td></tr><tr><td>Solicitors</td><td>70.1</td><td>74.0</td><td>3.9</td><td>5.5</td></tr><tr><td>Legal Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-0.2</td></tr><tr><td>Social and Welfare Professionals</td><td>137.0</td><td>160.6</td><td>23.6</td><td>17.2</td></tr><tr><td>Counsellors</td><td>23.5</td><td>29.3</td><td>5.8</td><td>24.8</td></tr><tr><td>Ministers of Religion</td><td>23.1</td><td>24.1</td><td>1.0</td><td>4.1</td></tr><tr><td>Psychologists</td><td>28.8</td><td>33.7</td><td>4.9</td><td>16.9</td></tr><tr><td>Social Professionals</td><td>12.5</td><td>14.1</td><td>1.6</td><td>12.9</td></tr><tr><td>Social Workers</td><td>28.3</td><td>34.7</td><td>6.4</td><td>22.5</td></tr><tr><td>Welfare, Recreation and Community Arts Workers</td><td>20.9</td><td>24.8</td><td>3.9</td><td>18.7</td></tr><tr><td>Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>24.7</td></tr><tr><td>Legal, Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>6.4</td></tr><tr><td>Legal, Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>6.4</td></tr></tbody></table>
+			<h2>Places to search job OPPORTUNITIES</h2>		
+									VIC
+									NSW
+									QLD
+									WA
+									SA
+									TAS
+									NT
+									ACT
+									VIC
+					<table width="168"><tbody><tr><td width="168"><a href="https://www.seek.com.au/jobs/in-Victoria-VIC?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMIiJ-GrZ_K2gIVSx0rCh2ctgD6EAAYASAAEgIe9_D_BwE&amp;gclsrc=aw.ds&amp;dclid=CMmrpK-fytoCFUo3lgodHqgCYQ" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="https://www.vic.gov.au/" target="_blank" rel="noopener">Victoria Government </a></td></tr><tr><td><a href="https://jobs.vic.gov.au/" target="_blank" rel="noopener">Jobs Victoria</a></td></tr><tr><td><a href="https://jobsearch.gov.au/search/by-location/jobs-in-melbourne-vic?code=71" target="_blank" rel="noopener">Job Active</a></td></tr></tbody></table>
+									NSW
+					<table width="136"><tbody><tr><td width="136"><a href="https://www.seek.com.au/jobs/in-New-South-Wales-NSW?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMI2Mbej6LK2gIVCx4rCh2wJw8yEAAYASAAEgITAvD_BwE&amp;gclsrc=aw.ds&amp;dclid=CN7ivJaiytoCFU9plgoduFgA-w" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="https://iworkfor.nsw.gov.au/" target="_blank" rel="noopener">I work for NSW</a></td></tr><tr><td> <a href="https://au.jora.com/jobs-in-Sydney-NSW?gclid=EAIaIQobChMIu4iw4a3K2gIVxgorCh13ug4eEAAYAyAAEgJ34vD_BwE" target="_blank" rel="noopener">Jora Australia </a></td></tr><tr><td><a href="https://au.indeed.com/jobs-in-Sydney-NSW" target="_blank" rel="noopener">Indeed </a></td></tr></tbody></table>
+									QLD
+					<table width="141"><tbody><tr><td width="141"><a href="https://www.seek.com.au/jobs/in-Queensland-QLD" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904" target="_blank" rel="noopener">Queensland Government</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table><p></p>
+									WA
+					<table width="128"><tbody><tr><td width="128"><a href="https://www.seek.com.au/jobs/in-Western-Australia-WA?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMI36vQ37LK2gIVjzUrCh2tRwHzEAAYASAAEgJokfD_BwE&amp;gclsrc=aw.ds&amp;dclid=CIWKpeeyytoCFZ0YKgodBnkFTg" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="https://jobs.wa.gov.au/" target="_blank" rel="noopener">Western Austrlia  Government</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
+									SA
+					<table width="141"><tbody><tr><td width="141"><a href="https://www.seek.com.au/jobs/in-South-Australia-SA" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="https://iworkfor.sa.gov.au/" target="_blank" rel="noopener">I work for SA</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
+									TAS
+					<table width="134"><tbody><tr><td width="134"><a href="https://www.seek.com.au/jobs/in-Tasmania-TAS" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="http://www.jobs.tas.gov.au/" target="_blank" rel="noopener">Tasmania Government</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
+									NT
+					<table width="132"><tbody><tr><td width="132"><a href="https://www.seek.com.au/jobs/in-Northern-Territory-NT?tracking=SEM-GGL-SRC-PaidSearchAU-4826&amp;gclid=EAIaIQobChMI5Yzk1rTK2gIVUyQrCh1p_w05EAAYASAAEgInnvD_BwE&amp;gclsrc=aw.ds&amp;dclid=CMj9wvG0ytoCFR4eKgodYIoChw" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="http://www.careers.nt.gov.au/Pages/default.aspx" target="_blank" rel="noopener">NT Government</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
+									ACT
+					<table width="141"><tbody><tr><td width="141"><a href="https://www.seek.com.au/jobs/in-All-Canberra-ACT" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a href="https://www.jobs.act.gov.au/" target="_blank" rel="noopener">ACT Government</a></td></tr><tr><td> </td></tr><tr><td> </td></tr></tbody></table>
