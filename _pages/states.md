@@ -19,4 +19,11 @@ post_date: 2018-04-16 10:10:04
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/SA-1-noy0z5x05i9j03saomqewb47l09dr55o6y4182l1c6.png" title="SA" alt="SA" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/TAS-noy10xu128p0xl7gbed1luzjz7icak7f3qh1uvy9l2.png" title="TAS" alt="TAS" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/nt-1-noy12y7lohg3rkabkrnbfuq1pvllr96r1opft6yy9y.png" title="nt" alt="nt" />											
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/act-noy14ho2vpk0sk1rkxmb0yq8rm09deawxb734ioq2u.png" title="act" alt="act" />
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/act-noy14ho2vpk0sk1rkxmb0yq8rm09deawxb734ioq2u.png" title="act" alt="act" />											
+                <noscript><a href='#'><img alt='NSW2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;States_NSW_2&#47;NSW2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='States_NSW_2&#47;NSW2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;States_NSW_2&#47;NSW2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>                
+                <h1> Portfolio </h1>
+                <p> Lorem ipsum portfolio </p>
+                <h1> Blog </h1>
+                <p> Lorem ipsum blog </p>
+                <h1> Contact Me </h1>
+                <p> Lorem ipsum contact </p>
