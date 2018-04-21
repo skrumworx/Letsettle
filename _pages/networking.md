@@ -12,6 +12,7 @@ post_date: 2018-04-21 08:29:39
 			<h2>Places for knowledge sharing and to find potential employers</h2>		
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/network-1-np1jygglv7j2ec1zkqehhciykf8sxjd9c2im9y9i48.png" title="network" alt="network" />											
 			<h2>Associations and Membership information</h2>		
+		<p style="text-align: center;">Associations are bodies consisting of professionals, with the aim to further the interests of professionals working in a particular field. Professionals can also network with their peers and can also get exposed to many opportunities to improve their future prospects. </p>		
 												ACCOUNTANCY					
 					<table width="381"><tbody><tr><td width="381"><a href="https://www.publicaccountants.org.au/" target="_blank" rel="noopener">Institute of Public Accountants</a></td></tr><tr><td><a href="https://www.cpaaustralia.com.au/" target="_blank" rel="noopener">CPA Australia</a></td></tr><tr><td><a href="https://www.charteredaccountantsanz.com/" target="_blank" rel="noopener">Chartered Accountants Australia &amp; New Zealand</a></td></tr><tr><td><a href="http://aat.org.au/" target="_blank" rel="noopener">Association of Accounting Technicians Australia</a></td></tr></tbody></table>
 												BUILDING PROFESSIONS					
