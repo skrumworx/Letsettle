@@ -4,7 +4,7 @@ post_title: Home
 author: Admin-Skrumworx
 post_excerpt: ""
 layout: page
-permalink: http://35.184.23.199/
+permalink: http://letsettle.net.au/
 published: true
 post_date: 2018-03-24 22:39:21
 ---
