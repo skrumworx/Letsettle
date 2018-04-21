@@ -8,7 +8,8 @@ permalink: http://letsettle.net.au/skill-assesment/
 published: true
 post_date: 2018-04-19 14:29:15
 ---
-<h2>Skill Assessment &amp; Visa Info</h2>		
+<h2>Skill Assessment is a important phase of Visa Info</h2>		
+			<h2>Find the skill assessment authority and proper visa option for you </h2>		
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
 			<h2>Skill Assessment Authorities in Australia</h2>		
 												ALL					
@@ -22,7 +23,7 @@ post_date: 2018-04-19 14:29:15
 												ENGINEERING					
 					<p><a href="https://www.engineersaustralia.org.au/" target="_blank" rel="noopener">Engineers Australia</a></p>
 												HEALTH PROFESSIONAL					
-					<p><a href="http://www.medicalboard.gov.au/" target="_blank" rel="noopener">Medical Board of Australia (MedBA)</a></p><p><a href="http://www.chinesemedicineboard.gov.au/" target="_blank" rel="noopener">Chinese Medicine Board of Australia (CMBA)</a></p><p><a href="https://www.adc.org.au/" target="_blank" rel="noopener">Australian Dental Council (ADC)</a></p><p><a href="https://www.aims.org.au/" target="_blank" rel="noopener">Australian Institute of Medical Scientists (AIMS)</a></p><p><a href="https://avbc.asn.au/" target="_blank" rel="noopener">Australasian Veterinary Boards Council (AVBC)</a></p><p> </p>
+					<p><a href="http://www.medicalboard.gov.au/" target="_blank" rel="noopener">Medical Board of Australia (MedBA)</a></p><p><a href="http://www.chinesemedicineboard.gov.au/" target="_blank" rel="noopener">Chinese Medicine Board of Australia (CMBA)</a></p><p><a href="https://www.adc.org.au/" target="_blank" rel="noopener">Australian Dental Council (ADC)</a></p><p><a href="https://www.aims.org.au/" target="_blank" rel="noopener">Australian Institute of Medical Scientists (AIMS)</a></p><p><a href="https://avbc.asn.au/" target="_blank" rel="noopener">Australasian Veterinary Boards Council (AVBC)</a></p>
 												LAW					
 					<p><a href="http://www.visabureau.com/australia/lawyers-barristers-solicitors.aspx" target="_blank" rel="noopener">Legal admissions authority of a state or territory</a></p>
 												NURSING					
