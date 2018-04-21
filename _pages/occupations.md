@@ -9,7 +9,7 @@ published: true
 post_date: 2018-04-15 10:41:36
 ---
 <h2>Match your skill with demand</h2>		
-			<h2>Add Your Heading Text Here</h2>		
+			<h2>Skill categories and demand based on categories</h2>		
 										<img width="1024" height="385" src="http://35.184.23.199/wp-content/uploads/2018/03/skillllll-1024x385.png" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/03/skillllll-1024x385.png 1024w, http://35.184.23.199/wp-content/uploads/2018/03/skillllll-300x113.png 300w, http://35.184.23.199/wp-content/uploads/2018/03/skillllll-768x289.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>MOST DEMANDED OCCUPATIONS</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/act-nnqh3djhbiz20bjcrhrkwp9zo4iaqd8b84u1k8co6c.png" title="act" alt="act" />											
