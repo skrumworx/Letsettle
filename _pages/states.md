@@ -21,6 +21,8 @@ post_date: 2018-04-16 10:10:04
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/nt-1-noy12y7lohg3rkabkrnbfuq1pvllr96r1opft6yy9y.png" title="nt" alt="nt" />											
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/act-noy14ho2vpk0sk1rkxmb0yq8rm09deawxb734ioq2u.png" title="act" alt="act" />											
                 <h1> Portfolio </h1>
+                <p> Lorem ipsum portfolio </p> 
+                <h1> Portfolio </h1>
                 <p> Lorem ipsum portfolio </p>
                 <h1> Portfolio </h1>
                 <p> Lorem ipsum portfolio </p>
