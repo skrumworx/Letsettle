@@ -8,8 +8,8 @@ permalink: http://letsettle.net.au/states/
 published: true
 post_date: 2018-04-16 10:10:04
 ---
-<h2>Add Your Heading Text Here</h2>		
-			<h2>Add Your Heading Text Here</h2>		
+<h2>Explore the skill demand in each state</h2>		
+			<h2>Match your skills to a state which has the highest demand</h2>		
 										<img width="1024" height="385" src="http://letsettle.net.au/wp-content/uploads/2018/03/skillllll-1024x385.png" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/03/skillllll-1024x385.png 1024w, http://letsettle.net.au/wp-content/uploads/2018/03/skillllll-300x113.png 300w, http://letsettle.net.au/wp-content/uploads/2018/03/skillllll-768x289.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>SKILL DEMAND IN STATES</h2>		
 											<a href=" http://letsettle.net.au/vic/" data-elementor-open-lightbox="">
