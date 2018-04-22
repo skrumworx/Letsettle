@@ -8,7 +8,7 @@ permalink: http://letsettle.net.au/employability/
 published: true
 post_date: 2018-04-18 23:23:01
 ---
-<h2>KEEP LOOKING FOR THE OPPORTUNITIES</h2>		
+<h2>KEEP LOOKING FOR OPPORTUNITIES</h2>		
 			<h2>Employability stats and the places where you can find job opportunities</h2>		
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/visa-np1jb44wvmu8rsg9xch8pmdvw1r47nfy3iqxpn8tlu.png" title="visa" alt="visa" />											
 			<h2>current Employability rates and future projections</h2>		
