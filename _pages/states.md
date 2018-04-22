@@ -16,7 +16,8 @@ post_date: 2018-04-16 10:10:04
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/vic-1-noy02pjm6fu44sxf73p5azy97284zdbbeb7hp4pe6e.png" title="vic" alt="vic" />								</a>
 											<a href=" http://letsettle.net.au/nsw/" data-elementor-open-lightbox="">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/nsw-1-noy05va35e5t5mc7qyv06p912onjuquu5y58rm0r9i.png" title="nsw" alt="nsw" />								</a>
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/qld-1-noy0u5fzpbeh2z2fygq1lknpj0ywp997i4ut2y0miu.png" title="qld" alt="qld" />											
+											<a href=" http://letsettle.net.au/qld/ " data-elementor-open-lightbox="">
+							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/qld-1-noy0u5fzpbeh2z2fygq1lknpj0ywp997i4ut2y0miu.png" title="qld" alt="qld" />								</a>
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/wa-1-noy0x2pwyrel7ativq89cu3c26k0ncv58lx6txoj5y.png" title="wa" alt="wa" />											
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/SA-1-noy0z5x05i9j03saomqewb47l09dr55o6y4182l1c6.png" title="SA" alt="SA" />											
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/TAS-noy10xu128p0xl7gbed1luzjz7icak7f3qh1uvy9l2.png" title="TAS" alt="TAS" />											
