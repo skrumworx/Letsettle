@@ -4,7 +4,7 @@ post_title: Contact Us
 author: Admin-Skrumworx
 post_excerpt: ""
 layout: page
-permalink: http://letsettle.net.au/contact-us/
+permalink: http://35.184.23.199/contact-us/
 published: true
 post_date: 2018-04-17 02:33:24
 ---
