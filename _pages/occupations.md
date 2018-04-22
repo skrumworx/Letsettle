@@ -26,4 +26,5 @@ post_date: 2018-04-15 10:41:36
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/law-2-nomywtsqal43xneds9iz6ip27onyx6ppyd76dmbfj8.png" title="law 2" alt="law 2" />								</a>
 											<a href=" http://letsettle.net.au/nursing/" data-elementor-open-lightbox="">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/ning-nnqi1j0dmtq3u9xhc97li30wo46eegt7x655a5pq3o.png" title="ning" alt="ning" />								</a>
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/t-nnqi71cbov9lvzxe64xvm6z60f0uilol0fsljjjnms.png" title="t" alt="t" />
+											<a href=" http://letsettle.net.au/teaching/" data-elementor-open-lightbox="">
+							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/t-nnqi71cbov9lvzxe64xvm6z60f0uilol0fsljjjnms.png" title="t" alt="t" />								</a>
