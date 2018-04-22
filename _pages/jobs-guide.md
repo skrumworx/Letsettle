@@ -28,9 +28,13 @@ post_date: 2018-04-18 23:23:01
 					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Legal Professionals</td><td>87.7</td><td>93.1</td><td>5.3</td><td>6.1</td></tr><tr><td>Barristers</td><td>6.7</td><td>7.5</td><td>0.7</td><td>10.8</td></tr><tr><td>Judicial and Other Legal Professionals</td><td>11.0</td><td>11.7</td><td>0.7</td><td>6.5</td></tr><tr><td>Solicitors</td><td>70.1</td><td>74.0</td><td>3.9</td><td>5.5</td></tr><tr><td>Legal Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-0.2</td></tr><tr><td>Social and Welfare Professionals</td><td>137.0</td><td>160.6</td><td>23.6</td><td>17.2</td></tr><tr><td>Counsellors</td><td>23.5</td><td>29.3</td><td>5.8</td><td>24.8</td></tr><tr><td>Ministers of Religion</td><td>23.1</td><td>24.1</td><td>1.0</td><td>4.1</td></tr><tr><td>Psychologists</td><td>28.8</td><td>33.7</td><td>4.9</td><td>16.9</td></tr><tr><td>Social Professionals</td><td>12.5</td><td>14.1</td><td>1.6</td><td>12.9</td></tr><tr><td>Social Workers</td><td>28.3</td><td>34.7</td><td>6.4</td><td>22.5</td></tr><tr><td>Welfare, Recreation and Community Arts Workers</td><td>20.9</td><td>24.8</td><td>3.9</td><td>18.7</td></tr><tr><td>Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>24.7</td></tr><tr><td>Legal, Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>6.4</td></tr><tr><td>Legal, Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>6.4</td></tr></tbody></table>
 			<h2><a href="http://lmip.gov.au/default.aspx?LMIP/EmploymentProjections">Reference : Labour Market Information Portal</a></h2>		
 			<h2>Growth rate comparison for each PROFESSION</h2>		
-                        Web Design87%
-                        SEO Services76%
-                        Brand Marketing40%
+                        Arts and Media Professionals1%
+                        Business, Human Resource and Marketing Professionals9%
+                        Design, Engineering, Science and Transport Professionals10%
+                        Education Professionals10%
+                        Health Professionals21%
+                        ICT Professionals12%
+                        Legal, Social and Welfare Professionals13%
 			<h2>Places where you can search for job OPPORTUNITIES</h2>		
 									VIC
 									NSW
