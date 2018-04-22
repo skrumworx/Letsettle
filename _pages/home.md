@@ -10,7 +10,7 @@ post_date: 2018-03-24 22:39:21
 ---
 <h2>Pursue opportunities where the skills are in demand. </h2>		
 			<h2>Life is all about making choices, <br>change and taking chances.</h2>		
-											<a href="http://letsettle.net.au/occupation" data-elementor-open-lightbox="" target="_blank">
+											<a href=" http://letsettle.net.au/occupations/ " data-elementor-open-lightbox="" target="_blank">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/discover-1-noz60f1pjk0tyibilbg0048x8pdbwo8vxzwl4ptqc0.png" title="discover" alt="discover" />								</a>
 											<a href="letsettle.net.au/states/" data-elementor-open-lightbox="">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/demand-noz616b11r25b77x6586ifdagvmz3w93pqto1qpbbk.png" title="demand" alt="demand" />								</a>
