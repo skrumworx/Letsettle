@@ -8,8 +8,8 @@ permalink: http://letsettle.net.au/occupations/
 published: true
 post_date: 2018-04-15 10:41:36
 ---
-<h2>Match your skill with demand</h2>		
-			<h2>Skill categories and demand based on categories</h2>		
+<h2>Explore the most demanded skill categories </h2>		
+			<h2>Skill categories are based on the highest demand</h2>		
 										<img width="1024" height="385" src="http://letsettle.net.au/wp-content/uploads/2018/03/skillllll-1024x385.png" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/03/skillllll-1024x385.png 1024w, http://letsettle.net.au/wp-content/uploads/2018/03/skillllll-300x113.png 300w, http://letsettle.net.au/wp-content/uploads/2018/03/skillllll-768x289.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h2>MOST DEMANDED OCCUPATIONS</h2>		
 											<a href=" http://letsettle.net.au/accountancy/" data-elementor-open-lightbox="">
