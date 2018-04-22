@@ -22,6 +22,7 @@ post_date: 2018-04-15 10:41:36
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/hea-nnqhumuzikaep7xxl9y37tn7ue5hydg2z1wyl3xnqc.png" title="hea" alt="hea" />								</a>
 											<a href="http://letsettle.net.au/ict/" data-elementor-open-lightbox="">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/ict-nnqghc7p3ct1tfjpfyugg9gyax4i9tquv288ip0y1w.png" title="ict" alt="ict" />								</a>
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/law-2-nomywtsqal43xneds9iz6ip27onyx6ppyd76dmbfj8.png" title="law 2" alt="law 2" />											
+											<a href="http://letsettle.net.au/law/" data-elementor-open-lightbox="">
+							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/law-2-nomywtsqal43xneds9iz6ip27onyx6ppyd76dmbfj8.png" title="law 2" alt="law 2" />								</a>
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/ning-nnqi1j0dmtq3u9xhc97li30wo46eegt7x655a5pq3o.png" title="ning" alt="ning" />											
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/t-nnqi71cbov9lvzxe64xvm6z60f0uilol0fsljjjnms.png" title="t" alt="t" />
