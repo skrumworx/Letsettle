@@ -12,35 +12,6 @@ post_date: 2018-04-18 23:23:01
 			<h2>Places where you can find job opportunities</h2>		
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/visa-np1jb44wvmu8rsg9xch8pmdvw1r47nfy3iqxpn8tlu.png" title="visa" alt="visa" />											
 			<h2>current Employability rates and future projections for professions</h2>		
-			<h2>Arts and Media Professionals<br><br></h2>		
-						Employment level - May 2017 ('000)
-				106.8
-						Projected employment level - May 2022 ('000)
-				107.0
-			<h2>Business, Human Resource and Marketing Professionals<br></h2>		
-						Employment level - May 2017 ('000)
-				673.7
-						Projected employment level - May 2022 ('000)
-				732.5
-                        1<sup>%</sup>
-                    Growth
-                        8<sup>%</sup>
-                    Growth
-			<h2>Arts and Media Professionals<br><br></h2>		
-						Employment level - May 2017 ('000)
-				106.8
-						Projected employment level - May 2022 ('000)
-				107.0
-			<h2>Business, Human Resource and Marketing Professionals<br></h2>		
-						Employment level - May 2017 ('000)
-				673.7
-						Projected employment level - May 2022 ('000)
-				732.5
-                        1<sup>%</sup>
-                    Growth
-                        8<sup>%</sup>
-                    Growth
-			<h2>Stats for each profession</h2>		
 												Arts and Media Professionals					
 					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Arts Professionals</td><td>45.0</td><td>45.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Actors, Dancers and Other Entertainers</td><td>10.4</td><td>10.8</td><td>0.5</td><td>4.5</td></tr><tr><td>Music Professionals</td><td>8.7</td><td>8.1</td><td>-0.6</td><td>-7.0</td></tr><tr><td>Photographers</td><td>15.7</td><td>16.4</td><td>0.7</td><td>4.5</td></tr><tr><td>Visual Arts and Crafts Professionals</td><td>8.5</td><td>8.0</td><td>-0.5</td><td>-5.8</td></tr><tr><td>Arts Professionals nfd</td><td>1.3</td><td>1.2</td><td>-0.1</td><td>-4.6</td></tr><tr><td>Media Professionals</td><td>62.6</td><td>62.7</td><td>0.2</td><td>0.2</td></tr><tr><td>Artistic Directors, and Media Producers and Presenters</td><td>14.1</td><td>15.0</td><td>0.9</td><td>6.5</td></tr><tr><td>Authors, and Book and Script Editors</td><td>10.5</td><td>11.1</td><td>0.6</td><td>5.4</td></tr><tr><td>Film, Television, Radio and Stage Directors</td><td>12.0</td><td>11.2</td><td>-0.7</td><td>-6.1</td></tr><tr><td>Journalists and Other Writers</td><td>24.6</td><td>23.7</td><td>-0.8</td><td>-3.4</td></tr><tr><td>Media Professionals nfd</td><td>1.8</td><td>2.1</td><td>0.2</td><td>13.1</td></tr><tr><td>Arts and Media Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-16.2</td></tr><tr><td>Arts and Media Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-16.2</td></tr></tbody></table>
 												Business, Human Resource and Marketing Professionals					
@@ -55,7 +26,12 @@ post_date: 2018-04-18 23:23:01
 					<table width="1007"><tbody><tr><td width="276"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Business and Systems Analysts, and Programmers</td><td>139.2</td><td>155.4</td><td>16.1</td><td>11.6</td></tr><tr><td>ICT Business and Systems Analysts</td><td>26.1</td><td>27.0</td><td>0.9</td><td>3.5</td></tr><tr><td>Multimedia Specialists and Web Developers</td><td>8.8</td><td>9.0</td><td>0.2</td><td>1.7</td></tr><tr><td>Software and Applications Programmers</td><td>104.0</td><td>119.0</td><td>15.1</td><td>14.5</td></tr><tr><td>Business and Systems Analysts, and Programmers nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>3.0</td></tr><tr><td>Database and Systems Administrators, and ICT Security Specialists</td><td>36.7</td><td>41.0</td><td>4.3</td><td>11.8</td></tr><tr><td>Database and Systems Administrators, and ICT Security Specialists</td><td>36.7</td><td>41.0</td><td>4.3</td><td>11.8</td></tr><tr><td>ICT Network and Support Professionals</td><td>45.2</td><td>51.2</td><td>6.0</td><td>13.2</td></tr><tr><td>Computer Network Professionals</td><td>22.6</td><td>23.2</td><td>0.6</td><td>2.6</td></tr><tr><td>ICT Support and Test Engineers</td><td>10.4</td><td>13.3</td><td>2.9</td><td>27.8</td></tr><tr><td>Telecommunications Engineering Professionals</td><td>12.5</td><td>15.0</td><td>2.5</td><td>19.9</td></tr><tr><td>ICT Network and Support Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>13.2</td></tr><tr><td>ICT Professionals nfd</td><td>22.6</td><td>26.0</td><td>3.5</td><td>15.4</td></tr><tr><td>ICT Professionals nfd</td><td>22.6</td><td>26.0</td><td>3.5</td><td>15.4</td></tr></tbody></table>
 												Legal, Social and Welfare Professionals					
 					<table width="1096"><tbody><tr><td width="365"> </td><td width="233">Employment Level in 2017</td><td width="202">Projected Employment in 2022</td><td width="124">Growth</td><td width="172">Percentage</td></tr><tr><td>Legal Professionals</td><td>87.7</td><td>93.1</td><td>5.3</td><td>6.1</td></tr><tr><td>Barristers</td><td>6.7</td><td>7.5</td><td>0.7</td><td>10.8</td></tr><tr><td>Judicial and Other Legal Professionals</td><td>11.0</td><td>11.7</td><td>0.7</td><td>6.5</td></tr><tr><td>Solicitors</td><td>70.1</td><td>74.0</td><td>3.9</td><td>5.5</td></tr><tr><td>Legal Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>-0.2</td></tr><tr><td>Social and Welfare Professionals</td><td>137.0</td><td>160.6</td><td>23.6</td><td>17.2</td></tr><tr><td>Counsellors</td><td>23.5</td><td>29.3</td><td>5.8</td><td>24.8</td></tr><tr><td>Ministers of Religion</td><td>23.1</td><td>24.1</td><td>1.0</td><td>4.1</td></tr><tr><td>Psychologists</td><td>28.8</td><td>33.7</td><td>4.9</td><td>16.9</td></tr><tr><td>Social Professionals</td><td>12.5</td><td>14.1</td><td>1.6</td><td>12.9</td></tr><tr><td>Social Workers</td><td>28.3</td><td>34.7</td><td>6.4</td><td>22.5</td></tr><tr><td>Welfare, Recreation and Community Arts Workers</td><td>20.9</td><td>24.8</td><td>3.9</td><td>18.7</td></tr><tr><td>Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>24.7</td></tr><tr><td>Legal, Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>6.4</td></tr><tr><td>Legal, Social and Welfare Professionals nfd</td><td>0.1</td><td>0.1</td><td>0.0</td><td>6.4</td></tr></tbody></table>
-			<h2>Places to search job OPPORTUNITIES</h2>		
+			<h2><a href="http://lmip.gov.au/default.aspx?LMIP/EmploymentProjections">Reference : Labour Market Information Portal</a></h2>		
+			<h2>Growth rate comparison for each PROFESSION</h2>		
+                        Web Design87%
+                        SEO Services76%
+                        Brand Marketing40%
+			<h2>Places where you can search for job OPPORTUNITIES</h2>		
 									VIC
 									NSW
 									QLD
