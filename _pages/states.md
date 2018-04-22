@@ -24,5 +24,6 @@ post_date: 2018-04-16 10:10:04
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/SA-1-noy0z5x05i9j03saomqewb47l09dr55o6y4182l1c6.png" title="SA" alt="SA" />								</a>
 											<a href=" http://letsettle.net.au/tas/" data-elementor-open-lightbox="">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/TAS-noy10xu128p0xl7gbed1luzjz7icak7f3qh1uvy9l2.png" title="TAS" alt="TAS" />								</a>
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/nt-1-noy12y7lohg3rkabkrnbfuq1pvllr96r1opft6yy9y.png" title="nt" alt="nt" />											
+											<a href=" http://letsettle.net.au/nt/ " data-elementor-open-lightbox="">
+							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/nt-1-noy12y7lohg3rkabkrnbfuq1pvllr96r1opft6yy9y.png" title="nt" alt="nt" />								</a>
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/act-noy14ho2vpk0sk1rkxmb0yq8rm09deawxb734ioq2u.png" title="act" alt="act" />
