@@ -5,7 +5,7 @@ author: Admin-Skrumworx
 post_excerpt: ""
 layout: page
 permalink: >
-  http://letsettle.net.au/home/explore-australia/
+  http://35.184.23.199/home/explore-australia/
 published: true
 post_date: 2018-04-08 04:53:06
 ---
