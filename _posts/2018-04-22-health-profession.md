@@ -15,12 +15,8 @@ post_date: 2018-04-22 05:06:53
 			<h2><a href="http://joboutlook.gov.au">References : Job Outlook</a></h2>		
 			<html>
   <head>
-  </head>
-  <body>
-  </body>
-</html>		
-			<html>
-  <head>
+    <h2>Job vacancies of Health Professionals in Australia over the years</h2>
+  <h3>Given for different professionals associated with the profession</h3>
   </head>
   <body>
   </body>
