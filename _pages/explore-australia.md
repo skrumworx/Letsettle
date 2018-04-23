@@ -20,7 +20,7 @@ post_date: 2018-04-08 04:53:06
 									Weather
 									Universities
 									Population  According to Nationality
-					<p><br /> <br /> </p>
+					<p> </p><noscript><a href='#'><img alt='Ethnicity Profile ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Et&#47;EthnicityProfileStory&#47;Story2&#47;1_rss.png' style='border: none' /></a></noscript><object style="display: none;" width="300" height="150"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="path" value="views/EthnicityProfileStory/Story2?:embed=y&amp;:display_count=y&amp;publish=yes" /> <param name="toolbar" value="yes" /><param name="static_image" value="https://public.tableau.com/static/images///1.png" /> <param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /><param name="filter" value="publish=yes" /></object><p><br /> </p>
 									Population According to Religion
 									Weather
 									Universities
