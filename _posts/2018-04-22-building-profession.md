@@ -5,7 +5,7 @@ author: Admin-Skrumworx
 post_excerpt: ""
 layout: post
 permalink: >
-  http://letsettle.net.au/building-profession/
+  http://35.184.23.199/building-profession/
 published: true
 post_date: 2018-04-22 04:29:54
 ---
