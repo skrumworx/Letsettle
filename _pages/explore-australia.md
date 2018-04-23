@@ -17,14 +17,11 @@ post_date: 2018-04-08 04:53:06
 			<h2>Explore cultural diversity &amp; other facilities</h2>		
 									Population  According to Nationality
 									Population According to Religion
-									Weather
-									Universities
 									Population  According to Nationality
 					<noscript><a href='#'><img alt='Ethnicity Profile ' src='https://public.tableau.com/static/images/Et/EthnicityProfileStory/Story2/1_rss.png' style='border: none' /></a></noscript><object style="display: none;" width="300" height="150"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="path" value="views/EthnicityProfileStory/Story2?:embed=y&amp;:display_count=y&amp;publish=yes" /> <param name="toolbar" value="yes" /><param name="static_image" value="https://public.tableau.com/static/images///1.png" /> <param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /><param name="filter" value="publish=yes" /></object><p></p>
 									Population According to Religion
 					<noscript><a href='#'><img alt='Religious Profile ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;ReligionDasbboard&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ReligionDasbboard&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;ReligionDasbboard&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>                
-									Weather
-									Universities
+			<h2>Universities in each state</h2>		
 												ACT					
 					<table width="674"><tbody><tr><td width="275">Australian National University</td><td width="399">Canberra</td></tr><tr><td>The University of Canberra</td><td>Canberra</td></tr></tbody></table>
 												NSW					
