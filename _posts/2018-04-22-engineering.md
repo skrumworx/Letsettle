@@ -4,7 +4,7 @@ post_title: Engineering
 author: Admin-Skrumworx
 post_excerpt: ""
 layout: post
-permalink: http://letsettle.net.au/engineering/
+permalink: http://35.184.23.199/engineering/
 published: true
 post_date: 2018-04-22 04:53:30
 ---
