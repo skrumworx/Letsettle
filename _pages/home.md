@@ -11,9 +11,9 @@ post_date: 2018-03-24 22:39:21
 <h2>Pursue opportunities where the skills are in demand. </h2>		
 			<h2>Life is all about making choices, <br>change and taking chances.</h2>		
 											<a href=" http://letsettle.net.au/occupations/ " data-elementor-open-lightbox="">
-							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/discover-1-noz60f1pjk0tyibilbg0048x8pdbwo8vxzwl4ptqc0.png" title="discover" alt="discover" />								</a>
+							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/discover-1-noz60f1q5herj7q8mqjcslr3kg91llv5l5g96xsuwk.png" title="discover" alt="discover" />								</a>
 											<a href="letsettle.net.au/states/" data-elementor-open-lightbox="">
-							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/demand-noz616b11r25b77x6586ifdagvmz3w93pqto1qpbbk.png" title="demand" alt="demand" />								</a>
+							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/demand-noz616b1nog2vwmn7kbjawvgsmiostvdcwdc3yofw4.png" title="demand" alt="demand" />								</a>
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
 			<h3>Make your australian dream come true</h3>		
 			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/occupation-1-noz6nt94uytm2j5m29ofn6qa5ftmvccx43iz933aka.png" title="occupation" alt="occupation" /></figure><h3>Occupations in Demand</h3><p>Identify the demanded skills in job market of Australia and explore the trends and predictions. </p>		
