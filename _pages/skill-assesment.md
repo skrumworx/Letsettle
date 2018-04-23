@@ -10,7 +10,7 @@ post_date: 2018-04-19 14:29:15
 ---
 <h2>Skill Assessment is a important phase of Visa Application</h2>		
 			<h2>Find the skill assessment authority and proper visa option for you </h2>		
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
 			<h2>Skill Assessment Authorities in Australia</h2>		
 		<p style="text-align: center;">Providing evidence that your skills have been assessed by the relevant authority is one of the major tasks when applying for visa.  A full skill assessment by relevant authority must be provided for the points based skilled migration. The applicant is responsible for contacting the relevant assessing authority and get the assessment done. Following is the list of skill assessment authorities in Australia.</p>		
 												ALL					
