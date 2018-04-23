@@ -4,7 +4,7 @@ post_title: Networking
 author: Admin-Skrumworx
 post_excerpt: ""
 layout: page
-permalink: http://letsettle.net.au/networking/
+permalink: http://35.184.23.199/networking/
 published: true
 post_date: 2018-04-21 08:29:39
 ---
