@@ -4,7 +4,7 @@ post_title: Employability
 author: Admin-Skrumworx
 post_excerpt: ""
 layout: page
-permalink: http://letsettle.net.au/employability/
+permalink: http://35.184.23.199/employability/
 published: true
 post_date: 2018-04-18 23:23:01
 ---
