@@ -39,7 +39,7 @@ post_date: 2018-04-08 04:53:06
 												WA					
 					<table width="674"><tbody><tr><td width="275">Curtin University</td><td width="399">Perth</td></tr><tr><td>Edith Cowan University</td><td>Perth</td></tr><tr><td>Murdoch University</td><td>Perth</td></tr><tr><td>The University of Notre Dame Australia</td><td>Fremantle, Broome, Sydney</td></tr><tr><td>The University of Western Australia</td><td>Perth</td></tr></tbody></table>
 			<h2>Weather in Australia</h2>		
-			<h2>Add Your Heading Text Here</h2>		
-			<h2>Add Your Heading Text Here</h2>		
+			<h2>Rainfall</h2>		
 										<img width="1024" height="703" src="http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM-1024x703.jpeg" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM-1024x703.jpeg 1024w, http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM-300x206.jpeg 300w, http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM-768x527.jpeg 768w, http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM.jpeg 1499w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+			<h2>Rainfall</h2>		
 										<img width="1024" height="703" src="http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM1-1024x703.jpeg" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM1-1024x703.jpeg 1024w, http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM1-300x206.jpeg 300w, http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM1-768x527.jpeg 768w, http://letsettle.net.au/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-10.05.11-PM1.jpeg 1499w" sizes="(max-width: 1024px) 100vw, 1024px" />
