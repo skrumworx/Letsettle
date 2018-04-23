@@ -9,7 +9,7 @@ published: true
 post_date: 2018-03-24 22:40:09
 ---
 <h2>ABOUT US...</h2>		
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/profile-nntd013kqtzxhbp30d0e8yxeyjsmbnn11upwnnnci0.png" title="profile" alt="profile" />											
 			<h2>Our Team
 </h2>		
 		<p style="text-align: left;">The “Letsettle” website is a part of the industrial experience project for Masters degree, at Monash University, Australia.</p><p style="text-align: left;">The initiative of the website is to facilitate decision making of potential migrants to settle down in Australia. We provide most wanted information to the migrants under one roof, by enabling match the skills of the migrants to the most demanded state in Australia.</p><p style="text-align: left;">The website provides a platform to migrants to better understanding the life in Australia, in terms of, Cultural Diversity, Weather, Cost of living and other facilities.</p>		
