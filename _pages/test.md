@@ -8,17 +8,4 @@ permalink: http://letsettle.net.au/test/
 published: true
 post_date: 2018-04-21 16:44:01
 ---
-<ul id="menu" >
-    <li><a id="information-link" href="#"><h3> Information </h3> </a></li>
-    <li><a id="portfolio-link" href="#"><h3> Portfolio </h3> </a></li> 
-    <li><a id="blog-link" href="#"><h3> Blog </h3> </a></li>
-    <li><a id="contact-link" href="#"><h3> Contact Me </h3> </a></li>
-</ul>
-                <h1> About Me </h1>
-                <p> Lorem ipsum information </p>
-                <h1> Portfolio </h1>
-                <p> Lorem ipsum portfolio </p>
-                <h1> Blog </h1>
-                <p> Lorem ipsum blog </p>
-                <h1> Contact Me </h1>
-                <p> Lorem ipsum contact </p>
+<noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Z5&#47;Z539F67RW&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;Z539F67RW' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Z5&#47;Z539F67RW&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>
