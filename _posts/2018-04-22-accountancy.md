@@ -9,15 +9,12 @@ published: true
 post_date: 2018-04-22 02:54:19
 ---
 <h2>Accountancy</h2>
-<h2>Average Salary (Per week)
-
-$ 1400</h2>
-<h2>Required Skill Level
-
-Bachelor's Degree or higher</h2>
-<h2>Expected Growth
-
-Moderate</h2>
+<h2>Average Salary (Per week)</h2>
+$ 1400
+<h2>Required Skill Level</h2>
+Bachelor's Degree or higher
+<h2>Expected Growth</h2>
+Moderate
 <h2><a href="http://joboutlook.gov.au">References : Job Outlook</a></h2>
 <h2>Projected no.of vacancies till year 2022
 based on previous years vacancies</h2>
