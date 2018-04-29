@@ -8,7 +8,7 @@ permalink: http://letsettle.net.au/accountancy/
 published: true
 post_date: 2018-04-22 02:54:19
 ---
-<p><a style="color: #1da7e2;" href="http://letsettle.net.au/">Home</a> &gt; <a style="color: #1da7e2;" href="http://letsettle.net.au/occupations/">Occupations</a> &gt; Finance And Accountancy</p>		
+<p><a style="color: #1da7e2;" href="http://letsettle.net.au/">Home</a> &gt; <a style="color: #1da7e2;" href="http://letsettle.net.au/occupations/">Occupations</a> &gt; Finance And Accounts</p>		
 			<h2>Finance and Accounts</h2>		
 			<h2>Average Salary (Per week)<br><br>$ 1400 </h2>		
 			<h2>Required Skill Level <br><br>Bachelor's Degree or higher</h2>		
