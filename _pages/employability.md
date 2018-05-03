@@ -12,8 +12,8 @@ post_date: 2018-04-18 23:23:01
 			<h2>Employability stats and the places where you can find job opportunities</h2>		
 										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/visa-np1jb44wvmu8rsg9xch8pmdvw1r47nfy3iqxpn8tlu.png" title="visa" alt="visa" />											
 			<h2>current Employability rates and future projections</h2>		
-			<noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;EmploybilityGrowthProjection&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EmploybilityGrowthProjection&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;EmploybilityGrowthProjection&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>                		
-			<h2>Growth rate comparison for each PROFESSION <br>in 2022</h2>		
+			<h2>GROWTH RATE COMPARISON FOR EACH PROFESSION 
+IN 2022​</h2>		
                         Arts and Media Professionals1%
                         Business, Human Resource and Marketing Professionals9%
                         Design, Engineering, Science and Transport Professionals10%
@@ -21,6 +21,10 @@ post_date: 2018-04-18 23:23:01
                         Health Professionals21%
                         ICT Professionals12%
                         Legal, Social and Welfare Professionals13%
+			<noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;EmploybilityGrowthProjection&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EmploybilityGrowthProjection&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;EmploybilityGrowthProjection&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>                		
+			<h2>EMPLOYABILITY PROJECTIONS ACCORDING TO THE SKILL LEVEL</h2>		
+			<noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sk&#47;SkillLevel-Employability&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SkillLevel-Employability&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sk&#47;SkillLevel-Employability&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>                		
+			<h2>Growth Rate comparisons </h2>		
 			<h2>Places where you can search for job OPPORTUNITIES</h2>		
 									ACT
 									NSW
