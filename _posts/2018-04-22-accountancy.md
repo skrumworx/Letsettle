@@ -22,7 +22,8 @@ post_date: 2018-04-22 02:54:19
 					</a>
 			<h2>Finance</h2>		
 			<h2>trend Analysis of Vacancies over the past years with projections</h2>		
-			<h2>Overview of Finance</h2>		
+			<h2>According to SEEK's employment reports, it says there is a increase of 17% of demand from 2015. However, it shows a slight drop from 2017. </h2>		
+			<h2>Click here to see projections</h2>		
 									Insight
 									Skill accreditation
 									Insight
