@@ -8,13 +8,7 @@ permalink: http://35.184.23.199/
 published: true
 post_date: 2018-03-24 22:39:21
 ---
-<h2>Pursue opportunities where the skills are in demand. </h2>		
-			<h2>Life is all about making choices, <br>change and taking chances.</h2>		
-											<a href=" http://letsettle.net.au/occupations/ " data-elementor-open-lightbox="">
-							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/discover-1-noz60f1q5herj7q8mqjcslr3kg91llv5l5g96xsuwk.png" title="discover" alt="discover" />								</a>
-											<a href="letsettle.net.au/states/" data-elementor-open-lightbox="">
-							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/demand-noz616b1nog2vwmn7kbjawvgsmiostvdcwdc3yofw4.png" title="demand" alt="demand" />								</a>
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/THD-nnqfcfap0remvkcsuiuumor29ww27ux8uvpabfq23s.png" title="THD" alt="THD" />											
+Do you know there's a skill shortage in Australia?Explore Skill ShortageDo you know some states have a better demand for your skills?Explore State EmployabilityDo you know there are a lot of potential opportunities?Explore Opportunities			
 			<h3>Make your australian dream come true</h3>		
 			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/occupation-1-noz6nt94uytm2j5m29ofn6qa5ftmvccx43iz933aka.png" title="occupation" alt="occupation" /></figure><h3>Occupations in Demand</h3><p>Identify the demanded skills in job market of Australia and explore the trends and predictions. </p>		
 			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/additional-1-noz84jz4cb0tiujm32etjvle3rv2rxqpp5bso0w1v8.png" title="additional" alt="additional" /></figure><h3>Skill Assessment Info </h3><p>Learn about major visa options for skill migration and identify the relevant skill assessing authority.   </p>		
