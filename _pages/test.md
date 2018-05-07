@@ -8,4 +8,4 @@ permalink: http://35.184.23.199/test/
 published: true
 post_date: 2018-04-21 16:44:01
 ---
-Find the Best State to SettleExplore Skill DemandSlide 2 HeadingClick edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 1 HeadingClick edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here
+Do you know there's a skill shortage in Australia?Explore Skill ShortageDo you know some states have a better demand for your skills?Explore State EmployabilityDo you know there are a lot of potential opportunities?Explore Opportunities
