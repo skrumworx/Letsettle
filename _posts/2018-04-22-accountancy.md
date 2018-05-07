@@ -4,7 +4,7 @@ post_title: 'Finance &#038; Accountancy'
 author: Admin-Skrumworx
 post_excerpt: ""
 layout: post
-permalink: http://35.184.23.199/accountancy/
+permalink: http://letsettle.net.au/accountancy/
 published: true
 post_date: 2018-04-22 02:54:19
 ---
