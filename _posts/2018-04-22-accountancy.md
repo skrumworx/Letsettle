@@ -13,6 +13,7 @@ post_date: 2018-04-22 02:54:19
 			<h2>Average Salary (Per week)<br><br>$ 1400 - $1800</h2>		
 			<h2>Required Skill Level <br><br>Bachelor's Degree or higher</h2>		
 			<h2>Expected Growth<br><br>Moderate</h2>		
+										<img width="400" height="400" src="http://35.184.23.199/wp-content/uploads/2018/05/rzaD3oiY_400x400.jpg" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/05/rzaD3oiY_400x400.jpg 400w, http://35.184.23.199/wp-content/uploads/2018/05/rzaD3oiY_400x400-150x150.jpg 150w, http://35.184.23.199/wp-content/uploads/2018/05/rzaD3oiY_400x400-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />											
 			<h2>Finance</h2>		
 			<h2>trend Analysis of Vacancies over the past years with projections</h2>		
 									Projections
