@@ -8,7 +8,7 @@ permalink: http://35.184.23.199/
 published: true
 post_date: 2018-03-24 22:39:21
 ---
-Do you know there's a skill shortage in Australia?Explore Skill ShortageDo you know some states have a better demand for your skills?Explore State EmployabilityDo you know there are a lot of potential opportunities?Explore Opportunities			
+Do you know there are a lot of potential opportunities?Explore OpportunitiesDo you know there's a skill shortage in Australia?Explore Skill ShortageDo you know some states have a better demand for your skills?Explore State Employability			
 			<h3>Make your australian dream come true</h3>		
 			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/occupation-1-noz6nt94uytm2j5m29ofn6qa5ftmvccx43iz933aka.png" title="occupation" alt="occupation" /></figure><h3>Occupations in Demand</h3><p>Identify the demanded skills in job market of Australia and explore the trends and predictions. </p>		
 			<figure><img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/additional-1-noz84jz4cb0tiujm32etjvle3rv2rxqpp5bso0w1v8.png" title="additional" alt="additional" /></figure><h3>Skill Assessment Info </h3><p>Learn about major visa options for skill migration and identify the relevant skill assessing authority.   </p>		
