@@ -8,7 +8,7 @@ permalink: http://letsettle.net.au/
 published: true
 post_date: 2018-03-24 22:39:21
 ---
-MAKE YOUR AUSTRALIAN DREAM COME TRUEMATCH YOUR SKILLS TO THE BEST STATE TO SETTLE IN AUSTRLAIAExplore Skill DemandMAKE YOUR AUSTRALIAN DREAM COME TRUEDO YOU KNOW THERE IS A SKILL SHORTAGE IN AUSTRALIAExplore OpportunitiesMAKE YOUR AUSTRALIAN DREAM COME TRUEDO YOU KNOW SOME STATES HAVE BETTER DEMAND FOR YOUR SKILLS?Explore Employability			
+MAKE YOUR AUSTRALIAN DREAM COME TRUEMATCH YOUR SKILLS TO THE BEST STATE TO SETTLE IN AUSTRLAIAExplore Skill DemandMAKE YOUR AUSTRALIAN DREAM COME TRUEDO YOU KNOW THERE IS A SKILL SHORTAGE IN AUSTRALIA?Explore OpportunitiesMAKE YOUR AUSTRALIAN DREAM COME TRUEDO YOU KNOW SOME STATES HAVE BETTER DEMAND FOR YOUR SKILLS?Explore Employability			
 			<h3>why australia ?</h3>		
 		<p>Australia has a very low unemployment rate and encourages visa applications from skilled workers and facilitates skilled migration. Due to the economic growth, most of the industries are expanding, providing many opportunities to skilled workers. Australia is diverse country where you will feel as home. the home atmosphere.  </p>		
 										<img width="1631" height="1619" src="http://letsettle.net.au/wp-content/uploads/2018/04/map.png" alt="" srcset="http://letsettle.net.au/wp-content/uploads/2018/04/map.png 1631w, http://letsettle.net.au/wp-content/uploads/2018/04/map-150x150.png 150w, http://letsettle.net.au/wp-content/uploads/2018/04/map-300x298.png 300w, http://letsettle.net.au/wp-content/uploads/2018/04/map-768x762.png 768w, http://letsettle.net.au/wp-content/uploads/2018/04/map-1024x1016.png 1024w" sizes="(max-width: 1631px) 100vw, 1631px" />											
