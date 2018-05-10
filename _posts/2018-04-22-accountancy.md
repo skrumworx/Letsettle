@@ -13,13 +13,14 @@ post_date: 2018-04-22 02:54:19
 			<h2>Average Salary (Per week)<br><br>$ 1400 - $1800</h2>		
 			<h2>Required Skill Level <br><br>Bachelor's Degree or higher</h2>		
 			<h2>Expected Growth<br><br>Moderate</h2>		
-			<h2>Tags:</h2>		
-			<a href="#" role="button">
-						Click here
-					</a>
-			<a href="#" role="button">
-						Click here
-					</a>
+											<h3>I'm a Graduate</h3>
+									Explore graduate opportunities in Australia 							
+							<ul>
+											<li>
+																&nbsp;							
+						</li>
+									</ul>
+									<a href="#https://gradaustralia.com.au/search-jobs/areas-of-study/finance-accounting-economics-business-administration" target="_blank">Click Here</a>
 			<h2>Finance</h2>		
 			<h2>trend Analysis of Vacancies over the past years with projections</h2>		
 			<h2>According to SEEK's employment reports, it says there is a increase of 17% of demand from 2015. However, it shows a slight drop from 2017. </h2>		
