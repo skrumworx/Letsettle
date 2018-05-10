@@ -8,9 +8,9 @@ permalink: http://letsettle.net.au/occupations/
 published: true
 post_date: 2018-04-15 10:41:36
 ---
-<h2>Explore demand for you skill in Australia </h2>		
+<h2>Explore demand for skill categories in Australia </h2>		
 										<img width="150" height="150" src="http://letsettle.net.au/wp-content/uploads/2018/04/visa-150x150.png" alt="" />											
-			<h2>MOST DEMANDED OCCUPATIONS</h2>		
+			<h2>SELECT YOUR SKILL CATEGORY AND EXPLORE THE SKILL DEMAND</h2>		
 											<a href=" http://letsettle.net.au/accountancy/" data-elementor-open-lightbox="">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/finance-npmbrnjblv3wp16rnxlkpse9qnse3p5ocaqdcacu34.png" title="finance" alt="finance" />								</a>
 											<a href=" http://letsettle.net.au/building-profession/" data-elementor-open-lightbox="">
