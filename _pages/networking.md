@@ -8,9 +8,8 @@ permalink: http://letsettle.net.au/networking/
 published: true
 post_date: 2018-04-21 08:29:39
 ---
-<h2>NETWORKING GIVES YOU ACCESS TO THE HIDDEN OR INFORMAL JOB MARKET</h2>		
-			<h2>Places for knowledge sharing and to find potential employers</h2>		
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/network-1-np1jygglv7j2ec1zkqehhciykf8sxjd9c2im9y9i48.png" title="network" alt="network" />											
+<h2>NETWORKING GIVES YOU ACCESS TO THE HIDDEN OR INFORMAL JOB MARKET​</h2>		
+										<img width="150" height="150" src="http://letsettle.net.au/wp-content/uploads/2018/04/visa-150x150.png" alt="" />											
 			<h2>Associations and Membership information</h2>		
 		<p style="text-align: center;">Associations are bodies consisting of professionals, with the aim to further the interests of professionals working in a particular field. Professionals can also network with their peers and can also get exposed to many opportunities to improve their future prospects. </p>		
 												FINANCE					
