@@ -10,7 +10,7 @@ post_date: 2018-03-24 22:39:21
 ---
 MAKE YOUR AUSTRALIAN DREAM COME TRUEMATCH YOUR SKILLS TO THE BEST STATE TO SETTLE IN AUSTRLAIA<a href="http://www.letsettle.net.au/occupations/">Explore Skill Demand</a>DO YOU KNOW THERE IS A SKILL SHORTAGE IN AUSTRALIA?<a href="http://www.letsettle.net.au/states/">Explore Opportunities</a>DO YOU KNOW SOME STATES HAVE BETTER DEMAND FOR YOUR SKILLS?<a href="http://letsettle.net.au/employability/">Explore Employability</a>			
 			<h3>Australia</h3>		
-			<h3>A Place to Be</h3>		
+			<h3>The Place to Be</h3>		
 										<img width="1920" height="1281" src="http://35.184.23.199/wp-content/uploads/2018/05/sydney-opera-house-373144_1920.jpg" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/05/sydney-opera-house-373144_1920.jpg 1920w, http://35.184.23.199/wp-content/uploads/2018/05/sydney-opera-house-373144_1920-300x200.jpg 300w, http://35.184.23.199/wp-content/uploads/2018/05/sydney-opera-house-373144_1920-768x512.jpg 768w, http://35.184.23.199/wp-content/uploads/2018/05/sydney-opera-house-373144_1920-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />											
 										<img width="400" height="400" src="http://35.184.23.199/wp-content/uploads/2018/05/rzaD3oiY_400x400.jpg" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/05/rzaD3oiY_400x400.jpg 400w, http://35.184.23.199/wp-content/uploads/2018/05/rzaD3oiY_400x400-150x150.jpg 150w, http://35.184.23.199/wp-content/uploads/2018/05/rzaD3oiY_400x400-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />											
 											<a href="http://letsettle.net.au/states/" data-elementor-open-lightbox="">
