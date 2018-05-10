@@ -10,7 +10,7 @@ post_date: 2018-04-16 10:10:04
 ---
 <h2>Match your skills to a state which has the highest demand​</h2>		
 										<img width="150" height="150" src="http://letsettle.net.au/wp-content/uploads/2018/04/visa-150x150.png" alt="" />											
-			<h2>SELECT A STATE AND EXPLORE THE SKILLS ARE IN DEMAND</h2>		
+			<h2>SELECT A STATE AND EXPLORE SKILLS ARE IN DEMAND</h2>		
 											<a href=" http://letsettle.net.au/vic/" data-elementor-open-lightbox="">
 							<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/vic-1-noy02pjm6fu44sxf73p5azy97284zdbbeb7hp4pe6e.png" title="vic" alt="vic" />								</a>
 											<a href=" http://letsettle.net.au/nsw/" data-elementor-open-lightbox="">
