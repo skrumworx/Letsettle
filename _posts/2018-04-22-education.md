@@ -23,7 +23,7 @@ post_date: 2018-04-22 05:33:26
 									<a href="https://gradaustralia.com.au/search-jobs/areas-of-study/finance-accounting-economics-business-administration" target="_blank">Find Information</a>
 			<h2>EDUCATION</h2>		
 			<h2>trend Analysis of Demand over the past years with projections</h2>		
-			<h2>According to SEEK's employment reports, it says there is a increase of 17% of demand from 2015. However, it shows a slight drop from 2017. </h2>		
+			<h2>As of August 2017, education and training saw a 3 percent annual growth and average advertised annual salary was $83,098.</h2>		
 			<h2>Click here to see projections</h2>		
 									Insight
 									Skill accreditation
