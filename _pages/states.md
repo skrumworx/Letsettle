@@ -9,7 +9,7 @@ published: true
 post_date: 2018-04-16 10:10:04
 ---
 <h2>Match your skills to a state which has the highest demand​</h2>		
-										<img width="150" height="150" src="http://35.184.23.199/wp-content/uploads/2018/04/explore-1-150x150.png" alt="" srcset="http://35.184.23.199/wp-content/uploads/2018/04/explore-1-150x150.png 150w, http://35.184.23.199/wp-content/uploads/2018/04/explore-1-300x300.png 300w, http://35.184.23.199/wp-content/uploads/2018/04/explore-1-768x765.png 768w, http://35.184.23.199/wp-content/uploads/2018/04/explore-1-1024x1020.png 1024w, http://35.184.23.199/wp-content/uploads/2018/04/explore-1.png 1472w" sizes="(max-width: 150px) 100vw, 150px" />											
+										<img width="150" height="150" src="http://35.184.23.199/wp-content/uploads/2018/05/image-3-150x150.png" alt="" />											
 			<h2>SELECT A STATE AND EXPLORE SKILLS ARE IN DEMAND</h2>		
 											<a href=" http://letsettle.net.au/vic/" data-elementor-open-lightbox="">
 							<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/vic-1-noy02pjm6fu44sxf73p5azy97284zdbbeb7hp4pe6e.png" title="vic" alt="vic" />								</a>
