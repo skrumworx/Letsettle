@@ -23,7 +23,7 @@ post_date: 2018-04-22 04:53:30
 									<a href="https://gradaustralia.com.au/search-jobs/areas-of-study/finance-accounting-economics-business-administration" target="_blank">Find Information</a>
 			<h2>Engineering</h2>		
 			<h2>trend Analysis of Demand over the past years with projections</h2>		
-			<h2>According to SEEK's employment reports, it says there is a increase of 17% of demand from 2015. However, it shows a slight drop from 2017. </h2>		
+			<h2>Engineering field saw a 25 percent growth in online advertisements from 2017 to 2018. The average annual salary advertised was $105,661. Due to ongoing and future infrastructure projects in Australia, there will be strong prospects for engineering professions related to construction projects in the future.</h2>		
 			<h2>Click here to see projections</h2>		
 									Insight
 									Skill accreditation
