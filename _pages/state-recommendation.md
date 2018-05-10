@@ -24,7 +24,7 @@ post_date: 2018-05-10 14:59:52
 </li>
 </ol>		
 			<h2>KNOW YOUR SKILL? </h2>		
-			<a href="#http://www.letsettle.net.au/occupations/" role="button">
+			<a href="http://www.letsettle.net.au/occupations/" role="button">
 						Explore Your Skill
 					</a>
 			<h2>WANT TO START YOUR CAREER?</h2>		
