@@ -12,17 +12,7 @@ post_date: 2018-05-10 14:59:52
 <h2>Personalised report and the place you can find state-wise information</h2>		
 										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/report-npz2ptn80yp5c0in6avips3lmqkmwn0gkdqh0q8jr4.png" title="report" alt="report" />											
 			<h2>Tips</h2>		
-		<ol>
- 	<li style="color: #ffffff;">
-<h4>Select any category you are interested in. </h4>
-</li>
- 	<li style="color: #ffffff;">
-<h4>Select any occupation within that category.</h4>
-</li>
- 	<li style="color: #ffffff;">
-<h4>Ranking will be provided, click on any state to explore more. </h4>
-</li>
-</ol>		
+		<ol><li style="color: #ffffff;"><p>Select any category you are interested in. </p></li><li style="color: #ffffff;"><p>Select any occupation within that category.</p></li><li style="color: #ffffff;"><p>Ranking will be provided, click on any state to explore more. </p></li></ol>		
 			<h2>KNOW YOUR SKILL? </h2>		
 			<a href="http://www.letsettle.net.au/occupations/" role="button">
 						Explore Your Skill
