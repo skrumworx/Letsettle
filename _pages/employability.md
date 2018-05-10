@@ -8,20 +8,29 @@ permalink: http://letsettle.net.au/employability/
 published: true
 post_date: 2018-04-18 23:23:01
 ---
-<h2>KEEP LOOKING FOR OPPORTUNITIES</h2>		
-			<h2>Employability projections and the places where you can find job opportunities</h2>		
-										<img src="http://letsettle.net.au/wp-content/uploads/elementor/thumbs/visa-np1jb44wvmu8rsg9xch8pmdvw1r47nfy3iqxpn8tlu.png" title="visa" alt="visa" />											
+<h2>Employability projections and the places where you can find job opportunities</h2>		
+										<img width="150" height="150" src="http://letsettle.net.au/wp-content/uploads/2018/04/visa-150x150.png" alt="" />											
+			<h2>Overview</h2>		
+											<h3>I'm a Graduate</h3>
+									Explore graduate opportunities in Australia 							
+							<ul>
+											<li>
+																&nbsp;							
+						</li>
+									</ul>
+									<a href="https://gradaustralia.com.au/search-jobs/areas-of-study/finance-accounting-economics-business-administration" target="_blank">Click Here</a>
 			<h2>current Employability rates and future projections</h2>		
+			<h2>employment projections for all the professions </h2>		
 			<noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;Employbility-ProfessionsUpdated&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Employbility-ProfessionsUpdated&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;Employbility-ProfessionsUpdated&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>                		
-			<h2>EMPLOYABILITY PROJECTIONS ACCORDING TO THE SKILL LEVEL</h2>		
+			<h2>Employment projections according to the skill level</h2>		
 			<noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;Employability-SkillLevel-Updated&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Employability-SkillLevel-Updated&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;Employability-SkillLevel-Updated&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>                		
-			<h2>Growth Rate comparisons </h2>		
+			<h2>Growth Comparison for skill levels</h2>		
                         Bachelor degree or higher qualification10.7%
                         Advanced Diploma or Diploma9.5%
                         Certificate IV or III3.4%
                         Certificate II or III8.2%
                         Certificate I or secondary education4.4%
-			<h2>Places where you can search for job OPPORTUNITIES</h2>		
+			<h2>Places where you can find opportunities</h2>		
 									ACT
 									NSW
 									NT
