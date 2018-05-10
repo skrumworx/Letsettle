@@ -9,7 +9,7 @@ published: true
 post_date: 2018-04-18 23:23:01
 ---
 <h2>Employability projections and the places where you can find job opportunities</h2>		
-										<img width="150" height="150" src="http://35.184.23.199/wp-content/uploads/2018/04/visa-150x150.png" alt="" />											
+										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/skillllll-nntcofr2unrguzkk1gy8ghnc38w81abzk7l802p9ts.png" title="skillllll" alt="skillllll" />											
 			<h2>Job Opportunities</h2>		
 												ACT					
 					<table style="height: 87px;" width="158"><tbody><tr><td width="141"><a style="color: #ffffff;" href="https://www.seek.com.au/jobs/in-All-Canberra-ACT" target="_blank" rel="noopener">SEEK</a></td></tr><tr><td><a style="color: #ffffff;" href="https://www.jobs.act.gov.au/" target="_blank" rel="noopener">ACT Government</a></td></tr></tbody></table>
