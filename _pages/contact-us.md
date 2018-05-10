@@ -9,5 +9,5 @@ published: true
 post_date: 2018-04-17 02:33:24
 ---
 <h2>Your comments and suggestions are greatly appreciated</h2>		
-										<img src="http://35.184.23.199/wp-content/uploads/elementor/thumbs/contact-np3ecuuxcgkww4omec2pim0but1293bs9rbthry1yc.png" title="contact" alt="contact" />											
+										<img width="150" height="150" src="http://letsettle.net.au/wp-content/uploads/2018/04/visa-150x150.png" alt="" />											
 		[ninja_form id=1]
