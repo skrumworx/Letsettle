@@ -22,7 +22,7 @@ post_date: 2018-04-22 05:33:26
 									</ul>
 									<a href="https://gradaustralia.com.au/search-jobs/areas-of-study/teaching-education-human-welfare" target="_blank">Find Information</a>
 			<h2>EDUCATION</h2>		
-			<h2>trend Analysis of Demand over the past years with projections</h2>		
+			<h2>skill demand analysis based on filled vacancies over the past years</h2>		
 			<a href="#" role="button">
 						Click Here To View Projection
 					</a>
