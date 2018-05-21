@@ -23,7 +23,7 @@ post_date: 2018-04-22 04:29:54
 									</ul>
 									<a href="https://gradaustralia.com.au/search-jobs/career-sector/construction-property-services" target="_blank">Find Information</a>
 			<h2>Building profession</h2>		
-			<h2>trend Analysis of Demand over the past years with projections</h2>		
+			<h2>skill demand analysis based on filled vacancies over the past years</h2>		
 			<a href="#" role="button">
 						Click Here To View Projection
 					</a>
@@ -31,7 +31,7 @@ post_date: 2018-04-22 04:29:54
 									Skill accreditation
 									Memberships
 									Insight
-					<noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bu&#47;BuildingProfession-Updated_0&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BuildingProfession-Updated_0&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bu&#47;BuildingProfession-Updated_0&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object>                
+					<noscript><a href='#'><img alt='Dashboard 1 ' src='https://public.tableau.com/static/images/Bu/BuildingProfession-Updated_0/Dashboard1/1_rss.png' style='border: none' /></a></noscript><object style="display: none;" width="300" height="150"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="site_root" value="" /><param name="name" value="BuildingProfession-Updated_0/Dashboard1" /><param name="tabs" value="no" /><param name="toolbar" value="yes" /><param name="static_image" value="https://public.tableau.com/static/images/Bu/BuildingProfession-Updated_0/Dashboard1/1.png" /> <param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /></object><p></p>
 									Skill accreditation
 					<p>Providing evidence that your skills have been assessed by the relevant authority is one of the major tasks when applying for visa.  A full skill assessment by relevant authority must be provided for the points based skilled migration. The applicant is responsible for contacting the relevant assessing authority and get the assessment done. </p><p>A list of skill assessment authorities</p><ul><li><a href="https://www.aaca.org.au/" target="_blank" rel="noopener">Architects Accreditation Council of Australia (AACA)</a></li><li><a href="https://www.aiqs.com.au/" target="_blank" rel="noopener">Australian Institute of Quantity Surveyors (AIQS)</a></li></ul>
 									Memberships
