@@ -20,7 +20,7 @@ post_date: 2018-04-22 05:33:26
 																&nbsp;							
 						</li>
 									</ul>
-									<a href="https://gradaustralia.com.au/search-jobs/areas-of-study/finance-accounting-economics-business-administration" target="_blank">Find Information</a>
+									<a href="https://gradaustralia.com.au/search-jobs/areas-of-study/teaching-education-human-welfare" target="_blank">Find Information</a>
 			<h2>EDUCATION</h2>		
 			<h2>trend Analysis of Demand over the past years with projections</h2>		
 			<a href="#" role="button">
